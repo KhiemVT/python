@@ -1,0 +1,1274 @@
+Company,TypeName,Inches,ScreenResolution,Cpu,Ram,Memory,Gpu,OpSys,Weight,Price,Cpu_Value,Cpu_Generation,Memory_Type,Gpu_Category
+Apple,Ultrabook,13.3,IPS Panel Retina Display 2560x1600,Intel Core i5 2.3GHz,8GB,128gb ssd,intel iris plus graphics 640,macOS,1.37kg,21466425.185568,1,1,1,Card onboard
+Apple,Ultrabook,13.3,1440x900,Intel Core i5 1.8GHz,8GB,128gb flash storage,intel hd graphics 6000,macOS,1.34kg,14404099.647168001,1,1,0,Card onboard
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,No OS,1.86kg,9213470.64,1,1,1,Card onboard
+Apple,Ultrabook,15.4,IPS Panel Retina Display 2880x1800,Intel Core i7 2.7GHz,16GB,512gb ssd,amd radeon pro 455,macOS,1.83kg,40658645.34864,1,2,1,Khác
+Apple,Ultrabook,13.3,IPS Panel Retina Display 2560x1600,Intel Core i5 3.1GHz,8GB,256gb ssd,intel iris plus graphics 650,macOS,1.37kg,28899853.297920004,1,1,1,Card onboard
+Acer,Notebook,15.6,1366x768,AMD A9-Series 9420 3GHz,4GB,500gb hdd,amd radeon r5,Windows 10,2.1kg,6409370.88,2,other,2,Khác
+Apple,Ultrabook,15.4,IPS Panel Retina Display 2880x1800,Intel Core i7 2.2GHz,16GB,256gb flash storage,intel iris pro graphics,Mac OS X,2.04kg,34289653.505184,1,2,0,Card onboard
+Apple,Ultrabook,13.3,1440x900,Intel Core i5 1.8GHz,8GB,256gb flash storage,intel hd graphics 6000,macOS,1.34kg,18566345.096640002,1,1,0,Card onboard
+Asus,Ultrabook,14,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16GB,512gb ssd,nvidia geforce mx150,Windows 10,1.3kg,23955023.664,1,2,1,Card rời
+Acer,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,1.6kg,12338038.944,1,1,1,Card onboard
+HP,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4GB,500gb hdd,intel hd graphics 620,No OS,1.86kg,6311627.97408,1,1,2,Card onboard
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,500gb hdd,intel hd graphics 520,No OS,1.86kg,5527922.149728,1,3,2,Card onboard
+Apple,Ultrabook,15.4,IPS Panel Retina Display 2880x1800,Intel Core i7 2.8GHz,16GB,256gb ssd,amd radeon pro 555,macOS,1.83kg,39096681.665184,1,2,1,Khác
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,256gb ssd,amd radeon r5 m430,Windows 10,2.2kg,7994087.83008,1,3,1,Khác
+Apple,Ultrabook,12,IPS Panel Retina Display 2304x1440,Intel Core M m3 1.2GHz,8GB,256gb ssd,intel hd graphics 615,macOS,0.92kg,20227974.49728,1,other,1,Card onboard
+Apple,Ultrabook,13.3,IPS Panel Retina Display 2560x1600,Intel Core i5 2.3GHz,8GB,256gb ssd,intel iris plus graphics 640,macOS,1.37kg,24332375.37456,1,1,1,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,amd radeon r5 m430,Windows 10,2.2kg,11937453.264,1,2,1,Khác
+Apple,Ultrabook,15.4,IPS Panel Retina Display 2880x1800,Intel Core i7 2.9GHz,16GB,512gb ssd,amd radeon pro 560,macOS,1.83kg,19212089.2128,1,2,1,Khác
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,8GB,1tb hdd,nvidia geforce 940mx,No OS,2.2kg,7995690.172800001,1,3,2,Card rời
+Dell,Ultrabook,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,128gb ssd,intel uhd graphics 620,Windows 10,1.22kg,15686935.2288,1,1,1,Card onboard
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,Windows 10,2.5kg,16007403.7728,1,1,0,Card rời
+HP,Notebook,15.6,1366x768,AMD E-Series E2-9000e 1.5GHz,4GB,500gb hdd,amd radeon r2,No OS,1.86kg,4134044.2176,2,other,2,Khác
+Dell,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,1.62kg,13123186.8768,1,1,1,Card onboard
+HP,Ultrabook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.91kg,10559438.524799999,1,2,1,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4GB,1tb hdd,intel hd graphics 520,Windows 10,2.3kg,6708047.563008001,1,3,2,Card onboard
+Apple,Ultrabook,13.3,1440x900,Intel Core i5 1.6GHz,8GB,128gb flash storage,intel hd graphics 6000,Mac OS X,1.35kg,17609746.4928,1,1,0,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,amd radeon 530,Windows 10,2.2kg,12818741.76,1,1,1,Khác
+Dell,Ultrabook,15.6,Full HD 1920x1080,Intel Core i7 8650U 1.9GHz,8GB,256gb ssd +  256gb ssd,intel uhd graphics 620,Windows 10,1.88kg,20798408.5056,1,2,1,Card onboard
+HP,Notebook,17.3,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,1tb hdd,nvidia geforce 930mx,Windows 10,2.5kg,14356990.7712,1,1,2,Card rời
+Chuwi,Notebook,15.6,Full HD 1920x1080,Intel Atom x5-Z8300 1.44GHz,4GB,64gb flash storage,intel hd graphics,Windows 10,1.89kg,3925579.429728,1,other,0,Card onboard
+Asus,Notebook,14,1366x768,AMD E-Series E2-6110 1.5GHz,2GB,32gb flash storage,amd radeon r2,Windows 10,1.65kg,3188662.0127999997,2,other,0,Khác
+HP,Notebook,17.3,Full HD 1920x1080,AMD A6-Series 9220 2.5GHz,4GB,500gb hdd,amd radeon 530,Windows 10,2.71kg,7034284.5408,2,other,2,Khác
+Dell,Ultrabook,13.3,Touchscreen / Quad HD+ 3200x1800,Intel Core i7 8550U 1.8GHz,16GB,512gb ssd,intel uhd graphics 620,Windows 10,1.2kg,29947785.436800003,1,2,1,Card onboard
+Apple,Ultrabook,13.3,1440x900,Intel Core i5 1.6GHz,8GB,256gb flash storage,intel hd graphics 6000,Mac OS X,1.35kg,15991380.345600002,1,1,0,Card onboard
+Lenovo,Notebook,14,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4GB,64gb flash storage,intel hd graphics 500,Windows 10,1.44kg,3989833.3728,1,other,0,Card onboard
+Acer,Notebook,15.6,1366x768,Intel Core i3 7130U 2.7GHz,4GB,1tb hdd,intel hd graphics 620,Linux,2.1kg,5880597.7824,1,3,2,Card onboard
+Dell,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,128gb ssd +  1tb hdd,amd radeon 530,Windows 10,2.8kg,15686935.2288,1,1,0,Khác
+HP,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4GB,1tb hdd,intel hd graphics 620,Windows 10,1.86kg,7830488.638368,1,1,2,Card onboard
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,nvidia geforce 930mx,Windows 10,2.1kg,14084592.508800002,1,1,1,Card rời
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,1tb hdd,intel hd graphics 620,Linux,2kg,6233113.180799999,1,3,2,Card onboard
+Dell,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,2.65kg,24019117.3728,1,2,0,Card rời
+Asus,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8GB,1tb hdd,nvidia geforce 940mx,Linux,2.3kg,8380092.191328,1,1,2,Card rời
+Acer,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4GB,256gb ssd,intel uhd graphics 620,Windows 10,2.2kg,10927977.3504,1,1,1,Card onboard
+Dell,2 in 1 Convertible,17.3,Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,12GB,1tb hdd,nvidia geforce 150mx,Windows 10,2.77kg,16007403.7728,1,1,2,Card rời
+Apple,Ultrabook,13.3,IPS Panel Retina Display 2560x1600,Intel Core i5 2.0GHz,8GB,256gb ssd,intel iris graphics 540,macOS,1.37kg,22737243.1968,1,1,1,Card onboard
+Asus,Gaming,17.3,Full HD 1920x1080,AMD Ryzen 1700 3GHz,8GB,256gb ssd +  1tb hdd,amd radeon rx 580,Windows 10,3.2kg,20814431.932800002,2,other,0,Khác
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,256gb ssd,amd radeon r5 m430,Windows 10,2.3kg,10238969.9808,1,1,1,Khác
+Asus,Notebook,17.3,1366x768,Intel Pentium Quad Core N4200 1.1GHz,4GB,1tb hdd,nvidia geforce 920mx,Windows 10,2.8kg,7466917.0752,1,other,2,Card rời
+Acer,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd,nvidia geforce mx150,Windows 10,2.2kg,13475702.275200002,1,2,1,Card rời
+HP,Notebook,15.6,Full HD 1920x1080,AMD A6-Series 9220 2.5GHz,4GB,256gb ssd,amd radeon r4 graphics,Windows 10,1.86kg,6385175.504928,2,other,1,Khác
+HP,Notebook,13.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,512gb ssd,intel uhd graphics 620,Windows 10,1.49kg,17673840.2016,1,2,1,Card onboard
+Acer,Notebook,15.6,1366x768,Intel Core i3 7100U 2.4GHz,4GB,1tb hdd,intel hd graphics 620,Windows 10,2.4kg,6152996.0448,1,3,2,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd,amd radeon 520,Windows 10,2.13kg,12302787.40416,1,2,1,Khác
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,128gb ssd,intel hd graphics 520,Windows 10,1.91kg,7034284.5408,1,3,1,Card onboard
+Asus,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4GB,256gb ssd,intel hd graphics 620,Windows 10,2kg,9392772.790368,1,1,1,Card onboard
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  2tb hdd,nvidia geforce gtx 1070,Windows 10,2.43kg,39241373.2128,1,2,0,Card rời
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,256gb ssd,intel hd graphics 520,Linux,2kg,6649722.288000001,1,3,1,Card onboard
+Dell,Notebook,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16GB,256gb ssd +  2tb hdd,amd radeon 530,Windows 10,2.8kg,20814431.932800002,1,2,0,Khác
+Dell,Ultrabook,14,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,1.7kg,14084592.508800002,1,1,1,Card onboard
+Lenovo,Notebook,14,IPS Panel Full HD 1920x1080,Intel Core i3 7130U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,No OS,1.7kg,9598032.892800001,1,3,1,Card onboard
+Asus,Notebook,14,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,1.4kg,15078044.9952,1,1,1,Card onboard
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.86kg,11056164.768,1,1,1,Card onboard
+Asus,Ultrabook,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,512gb ssd,nvidia geforce gtx 1050 ti,Windows 10,1.8kg,31774456.1376,1,2,1,Card rời
+HP,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4GB,500gb hdd,amd radeon 520,Windows 10,1.86kg,7029317.278368001,1,3,2,Khác
+HP,Notebook,14,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4GB,32gb ssd,intel hd graphics 400,Windows 10,1.44kg,3669364.8288000003,1,other,1,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,1tb hdd,intel hd graphics 620,Windows 10,1.9kg,8796861.5328,1,1,2,Card onboard
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,12GB,1tb hdd,nvidia geforce gtx 1050 ti,Linux,3kg,15206232.412800001,1,2,2,Card rời
+Microsoft,Ultrabook,13.5,Touchscreen 2256x1504,Intel Core i5 7200U 2.5GHz,4GB,128gb ssd,intel hd graphics 620,Windows 10 S,1.252kg,17449512.2208,1,1,1,Card onboard
+Dell,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,64GB,256gb ssd,amd radeon 530,Windows 10,1.4kg,15302372.976000002,1,2,1,Khác
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd,amd radeon 530,Windows 10,2.2kg,13940381.664,1,2,1,Khác
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,Windows 10,2.7kg,17545652.784,1,1,0,Card rời
+Acer,Notebook,14,1366x768,Intel Core i3 6006U 2GHz,8GB,1tb hdd,intel hd graphics 520,Windows 10,2.1kg,6233113.180799999,1,3,2,Card onboard
+Asus,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,1tb hdd,nvidia geforce gtx 1050,Windows 10,2.2kg,15206232.412800001,1,2,2,Card rời
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,2tb hdd,intel hd graphics 620,No OS,2.2kg,8316158.7168000005,1,1,2,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,128gb ssd +  1tb hdd,intel uhd graphics 620,Windows 10,2.02kg,13700030.256000001,1,2,0,Card onboard
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i3 7130U 2.7GHz,4GB,1tb hdd,nvidia geforce mx130,Windows 10,2.2kg,8492416.416000001,1,3,2,Card rời
+HP,Notebook,17.3,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce 930mx,Windows 10,2.5kg,15654888.3744,1,1,0,Card rời
+Dell,Ultrabook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,1.88kg,17564239.959552,1,1,1,Card onboard
+Apple,Ultrabook,12,IPS Panel Retina Display 2304x1440,Intel Core i5 1.3GHz,8GB,512gb ssd,intel hd graphics 615,macOS,0.92kg,24195375.072,1,1,1,Card onboard
+HP,Notebook,14,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.63kg,13780147.392,1,1,1,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,AMD A6-Series 9220 2.5GHz,4GB,128gb ssd,amd r4 graphics,Windows 10,2.2kg,6393347.4528,2,other,1,Khác
+Acer,Notebook,15.6,1366x768,AMD A9-Series 9420 3GHz,4GB,1tb hdd,amd radeon r5,Windows 10,2.1kg,6329253.744,2,other,2,Khác
+Dell,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,Windows 10,2.65kg,21615603.2928,1,2,0,Card rời
+HP,Ultrabook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd,nvidia geforce gtx 940mx,Windows 10,1.83kg,11200375.6128,1,2,1,Card rời
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.96kg,9597872.658528,1,1,1,Card onboard
+Asus,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,2.2kg,23217946.0128,1,2,0,Card rời
+Dell,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,1.21kg,26422631.452800002,1,2,1,Card onboard
+Asus,Gaming,15.6,Full HD 1920x1080,AMD FX 9830P 3GHz,8GB,1tb hdd,amd radeon rx 560,Windows 10,2.45kg,11200375.6128,2,other,2,Khác
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,2GB,1tb hdd,nvidia geforce mx150,Windows 10,2.2kg,11040141.3408,1,2,2,Card rời
+HP,Notebook,13.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16GB,512gb ssd,intel uhd graphics 620,Windows 10,1.49kg,19180042.358400002,1,2,1,Card onboard
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,256gb ssd,nvidia geforce gtx 1060,Windows 10,2.65kg,19147995.504,1,1,1,Card rời
+Asus,Ultrabook,14,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.25kg,16808575.1328,1,2,1,Card onboard
+Acer,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,1.5kg,13571842.8384,1,1,1,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,1tb hdd,amd radeon r5 m430,Linux,2.2kg,9612453.97728,1,2,2,Khác
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,256gb ssd,amd radeon r5 m430,Linux,2.2kg,7771362.192,1,3,1,Khác
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,6GB,256gb ssd,nvidia geforce 920m,Windows 10,2kg,9245517.4944,1,3,1,Card rời
+HP,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,12GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,Windows 10,2.62kg,20013260.5728,1,2,0,Card rời
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,amd radeon 530,Windows 10,1.91kg,11520844.1568,1,2,1,Khác
+HP,Notebook,15.6,Full HD 1920x1080,AMD E-Series E2-9000e 1.5GHz,4GB,500gb hdd,amd radeon r2,Windows 10,2.1kg,5592176.092800001,2,other,2,Khác
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,1tb hdd,amd radeon 520,Linux,2.2kg,10367157.398400001,1,1,2,Khác
+HP,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,nvidia geforce mx150,Windows 10,1.38kg,17930215.0368,1,2,1,Card rời
+Microsoft,Ultrabook,13.5,Touchscreen 2256x1504,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10 S,1.252kg,21471392.448,1,1,1,Card onboard
+HP,Notebook,14,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,6GB,256gb ssd,nvidia geforce 940mx,Windows 10,1.58kg,10559438.524799999,1,1,1,Card rời
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,1tb hdd,intel hd graphics 520,Windows 10,1.85kg,6648119.94528,1,3,2,Card onboard
+Asus,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,nvidia geforce 940mx,Windows 10,1.3kg,19115948.6496,1,2,1,Card rời
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,Windows 10,2.2kg,20814431.932800002,1,2,0,Card rời
+Lenovo,Notebook,14,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.58kg,23714672.255999997,1,2,1,Card onboard
+Asus,Ultrabook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce mx150,Windows 10,1.5kg,20221565.1264,1,2,0,Card rời
+Dell,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i7 7560U 2.4GHz,8GB,256gb ssd,intel iris plus graphics 640,Windows 10,1.23kg,22096306.108799998,1,2,1,Card onboard
+Lenovo,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.37kg,22416774.6528,1,1,1,Card onboard
+HP,Notebook,14,IPS Panel 1366x768,Intel Core i5 8250U 1.6GHz,4GB,500gb hdd,intel uhd graphics 620,Windows 10,1.63kg,11568914.438400002,1,1,2,Card onboard
+Dell,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,1.21kg,26102162.9088,1,1,1,Card onboard
+HP,Notebook,14,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,512gb ssd,intel uhd graphics 620,Windows 10,1.63kg,17369395.0848,1,2,1,Card onboard
+Dell,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd +  1tb hdd,nvidia geforce 940mx,Windows 10,2.16kg,18111760.466976,1,2,0,Card rời
+Asus,Notebook,17.3,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,1tb hdd,nvidia geforce 920mx,Windows 10,2kg,9037212.9408,1,3,2,Card rời
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd,nvidia geforce 940mx,Windows 10,1.7kg,17914191.6096,1,2,1,Card rời
+Acer,Notebook,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i3 7100U 2.4GHz,6GB,1tb hdd,intel hd graphics 620,Windows 10,2.1kg,7675221.6288,1,3,2,Card onboard
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  2tb hdd,nvidia geforce gtx 1070,Windows 10,1.8kg,35916512.0688,1,2,0,Card rời
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,nvidia geforce 940mx,No OS,2.2kg,10078735.708800001,1,1,1,Card rời
+HP,Notebook,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16GB,512gb ssd,nvidia geforce 930mx,Windows 10,2.5kg,20365775.9712,1,2,1,Card rời
+Acer,Notebook,15.6,1366x768,AMD A9-Series 9420 3GHz,4GB,256gb ssd,amd radeon r5,Windows 10,2.1kg,7226565.6672,2,other,1,Khác
+HP,Notebook,14,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,1tb hdd,intel uhd graphics 620,Windows 10,1.63kg,13011022.886400001,1,1,2,Card onboard
+Asus,Notebook,14,1366x768,AMD E-Series 6110 1.5GHz,4GB,64gb ssd,amd radeon r2,Windows 10 S,1.65kg,4454352.5273279995,2,other,1,Khác
+Dell,Notebook,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16GB,256gb ssd +  2tb hdd,amd radeon 530,Windows 10,2.8kg,22368704.371200003,1,2,0,Khác
+HP,Notebook,17.3,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,2.5kg,14869740.441599999,1,1,1,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8GB,1tb hdd,amd radeon r7 m445,Windows 10,2.36kg,10238809.746528,1,1,2,Khác
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,1tb hdd,amd radeon r5 m430,Windows 10,2.2kg,7194518.8128,1,3,2,Khác
+Acer,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,1.6kg,14164709.6448,1,2,1,Card onboard
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i3 7130U 2.7GHz,4GB,256gb ssd,nvidia geforce mx130,Windows 10,7.2kg,9165400.3584,1,3,1,Card rời
+HP,Notebook,15.6,1366x768,Intel Core i7 7500U 2.7GHz,8GB,1tb hdd,intel hd graphics 620,Windows 10,2.05kg,9582009.4656,1,2,2,Card onboard
+HP,Notebook,14,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,1.63kg,15831146.0736,1,2,1,Card onboard
+Lenovo,Notebook,15.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4GB,1tb hdd,intel hd graphics 500,No OS,1.9kg,4043672.088192,1,other,2,Card onboard
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,Windows 10,3kg,15029974.7136,1,1,0,Card rời
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,1tb hdd,nvidia geforce 920mx,No OS,2.2kg,7995690.172800001,1,1,2,Card rời
+HP,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,256gb ssd,intel hd graphics 620,Windows 10,1.32kg,11200375.6128,1,1,1,Card onboard
+Acer,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel Core i3 7130U 2.7GHz,4GB,1tb hdd,nvidia geforce mx130,Windows 10,3kg,10495344.816000002,1,3,2,Card rời
+Lenovo,Notebook,14,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,amd radeon rx 550,Windows 10,1.75kg,17882465.223744,1,1,1,Khác
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,256gb ssd,nvidia geforce gtx 1050m,No OS,2.4kg,13924358.2368,1,2,1,Card rời
+Toshiba,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4GB,500gb hdd,intel hd graphics 520,Windows 10,2.1kg,9646103.1744,1,1,2,Card onboard
+HP,Notebook,15.6,1366x768,AMD A6-Series 9220 2.5GHz,4GB,256gb ssd,amd radeon r4 graphics,Windows 10,1.86kg,5912644.6368,2,other,1,Khác
+Asus,Ultrabook,14,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,1.25kg,17609746.4928,1,2,1,Card onboard
+HP,Ultrabook,12.5,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core M 6Y75 1.2GHz,8GB,512gb ssd,intel hd graphics 515,Windows 10,0.97kg,32271182.3808,1,other,1,Card onboard
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Celeron Dual Core N3350 1.1GHz,4GB,1tb hdd,intel hd graphics 500,Windows 10,2kg,5512058.9568,1,other,2,Card onboard
+Acer,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4GB,1tb hdd,intel hd graphics 520,Windows 10,2.1kg,7162471.9584,1,3,2,Card onboard
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,512gb ssd,nvidia geforce gtx 1050,Windows 10,2.56kg,20017426.663872,1,2,1,Card rời
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,1.0tb hybrid,nvidia geforce gtx 1050,Windows 10,2.62kg,14405061.052800002,1,2,0,Card rời
+Lenovo,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4GB,128gb ssd,intel hd graphics 620,Windows 10,1.9kg,7979666.7456,1,1,1,Card onboard
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,2.8kg,30284277.408,1,2,0,Card rời
+HP,Ultrabook,14,Full HD 1920x1080,Intel Core i5 7500U 2.7GHz,4GB,256gb ssd,intel hd graphics 620,Windows 10,1.48kg,17337348.2304,1,1,1,Card onboard
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,6GB,256gb ssd,amd radeon 520,Windows 10,1.91kg,9918501.4368,1,1,1,Khác
+Lenovo,2 in 1 Convertible,14,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i3 7100U 2.4GHz,4GB,256gb ssd,intel hd graphics 620,Windows 10,1.74kg,10078735.708800001,1,3,1,Card onboard
+Asus,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.1kg,21070806.768,1,1,1,Card onboard
+Dell,2 in 1 Convertible,15.6,Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,1.56kg,16808575.1328,1,2,1,Card onboard
+Toshiba,Notebook,15.6,1366x768,Intel Core i3 6006U 2.2GHz,4GB,500gb hdd,intel hd graphics 520,Windows 10,2.1kg,7162471.9584,1,3,2,Card onboard
+Asus,Notebook,15.6,1366x768,AMD A9-Series 9420 3GHz,4GB,1tb hdd,amd radeon r5 m420,Windows 10,2.03kg,6457441.1616,2,other,2,Khác
+Acer,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4GB,256gb ssd,nvidia geforce mx150,Windows 10,3kg,12898858.896000002,1,1,1,Card rời
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,amd radeon 520,Windows 10,2.13kg,11665055.0016,1,1,1,Khác
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd,nvidia geforce gtx 1050 ti,Windows 10,2.5kg,17289277.9488,1,2,1,Card rời
+Acer,Notebook,15.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4GB,1tb hdd,intel hd graphics 500,Windows 10,2.1kg,5576152.6656,1,other,2,Card onboard
+MSI,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,2.4kg,28826145.5328,1,2,0,Card rời
+Acer,Notebook,15.6,1366x768,Intel Pentium Quad Core N4200 1.1GHz,4GB,1tb hdd,intel hd graphics 505,Windows 10,2.1kg,5824676.0214720005,1,other,2,Card onboard
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,Windows 10,2.56kg,16992684.311328,1,2,0,Card rời
+Acer,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,nvidia geforce mx150,Windows 10,3kg,13684006.828800002,1,1,1,Card rời
+HP,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4GB,500gb hdd,intel uhd graphics 620,Windows 10,1.49kg,12081664.108800001,1,1,2,Card onboard
+Huawei,Ultrabook,13,IPS Panel Full HD 2160x1440,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.05kg,21615603.2928,1,1,1,Card onboard
+HP,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,6GB,2tb hdd,amd radeon 520,Windows 10,2.71kg,11200375.6128,1,1,2,Khác
+Lenovo,Notebook,15.6,1366x768,AMD A6-Series 9220 2.9GHz,4GB,500gb hdd,amd radeon r4 graphics,No OS,2.2kg,4951239.0048,2,other,2,Khác
+Toshiba,Notebook,15.6,1366x768,Intel Core i3 7100U 2.4GHz,4GB,500gb hdd,intel hd graphics 620,Windows 10,5.4kg,7835455.9008,1,3,2,Card onboard
+HP,Notebook,17.3,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,nvidia geforce 930mx,Windows 10,2.5kg,14789623.3056,1,1,1,Card rời
+Dell,Notebook,15.6,1366x768,Intel Core i3 7100U 2.4GHz,8GB,1tb hdd,intel hd graphics 620,Windows 10,2.3kg,7354753.0848,1,3,2,Card onboard
+Acer,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4GB,128gb ssd,intel hd graphics 520,Windows 10,2.1kg,7194518.8128,1,3,1,Card onboard
+MSI,Gaming,18.4,Full HD 1920x1080,Intel Core i7 6920HQ 2.9GHz,32GB,512gb ssd +  1tb hdd,nvidia gtx 980 sli,Windows 10,4.4kg,44849572.7328,1,2,0,Card rời
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,128gb ssd +  1tb hdd,amd r17m-m1-70,Windows 10,1.90kg,13027046.3136,1,1,0,Khác
+HP,2 in 1 Convertible,13.3,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,1.29kg,24019117.3728,1,1,1,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16GB,256gb ssd +  2tb hdd,amd radeon 530,Linux,2.02kg,16808575.1328,1,2,0,Khác
+Dell,Ultrabook,13.3,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,1.23kg,22416774.6528,1,1,1,Card onboard
+Lenovo,2 in 1 Convertible,13.9,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 8550U 1.8GHz,16GB,512gb ssd,intel uhd graphics 620,Windows 10,1.4kg,29627316.8928,1,2,1,Card onboard
+Toshiba,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8GB,128gb ssd,intel hd graphics 620,Windows 10,2.0kg,12706577.7696,1,1,1,Card onboard
+Xiaomi,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,nvidia geforce mx150,No OS,1.95kg,19212089.2128,1,1,1,Card rời
+Dell,Notebook,17.3,Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,16GB,512gb ssd,nvidia geforce 150mx,Windows 10,2.77kg,24820288.7328,1,2,1,Card rời
+Dell,Notebook,15.6,4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 7700HQ 2.8GHz,16GB,512gb ssd,nvidia geforce gtx 1050,Windows 10,2.06kg,38408154.9984,1,2,1,Card rời
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,256gb ssd,nvidia geforce gtx 1050,No OS,2.4kg,12482249.788800001,1,1,1,Card rời
+Acer,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 7Y54 1.2GHz,8GB,256gb ssd,intel hd graphics 615,Windows 10,1.12kg,15847169.5008,1,1,1,Card onboard
+Dell,Notebook,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,128gb ssd +  1tb hdd,amd radeon 530,Windows 10,2.8kg,17385418.512000002,1,2,0,Khác
+Vero,Notebook,14,IPS Panel Full HD 1920x1080,Intel Celeron Dual Core N3350 1.1GHz,4GB,32gb flash storage,intel hd graphics 500,Windows 10,1.3kg,4166091.0719999997,1,other,0,Card onboard
+Xiaomi,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,nvidia geforce mx150,No OS,1.3kg,16021824.85728,1,1,1,Card rời
+Lenovo,Notebook,17.3,1600x900,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,nvidia geforce mx150,No OS,2.8kg,11184352.185600001,1,1,1,Card rời
+Dell,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,1tb hdd,intel uhd graphics 620,Windows 10,1.62kg,13443655.4208,1,2,2,Card onboard
+HP,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,1tb hdd,nvidia geforce 930mx,Windows 10,2.5kg,14645412.4608,1,1,2,Card rời
+Razer,Gaming,17.3,4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 7820HK 2.9GHz,32GB,1tb ssd,nvidia geforce gtx 1080,Windows 10,3.49kg,17609746.4928,1,2,1,Card rời
+HP,Notebook,13.3,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,512gb ssd,intel uhd graphics 620,Windows 10,1.49kg,15366466.684799999,1,1,1,Card onboard
+HP,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1050,Windows 10,3.35kg,22096306.108799998,1,2,0,Card rời
+HP,Notebook,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd,nvidia geforce 930mx,Windows 10,2.5kg,16744481.424,1,2,1,Card rời
+Dell,Gaming,15.6,IPS Panel 4K Ultra HD 3840x2160,Intel Core i7 7700HQ 2.8GHz,16GB,512gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,2.65kg,29563223.184000004,1,2,0,Card rời
+Lenovo,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4GB,128gb ssd,intel hd graphics 520,Windows 10,2.1kg,7899549.6096,1,1,1,Card onboard
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,1tb hdd,nvidia geforce 940mx,Windows 10,2.23kg,11889382.9824,1,2,2,Card rời
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,512gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,3.2kg,28024974.1728,1,2,0,Card rời
+Dell,Workstation,15.6,4K Ultra HD 3840x2160,Intel Xeon E3-1505M V6 3GHz,16GB,256gb ssd +  1tb hdd,nvidia quadro m1200,Windows 10,2.8kg,19212089.2128,1,other,0,Card rời
+Lenovo,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,512gb ssd,nvidia geforce gtx 1060,No OS,2.4kg,22400751.2256,1,2,1,Card rời
+Dell,Notebook,15.6,Touchscreen 1366x768,Intel Core i3 7100U 2.4GHz,6GB,1tb hdd,intel hd graphics 620,Windows 10,2.3kg,7034284.5408,1,3,2,Card onboard
+Dell,Ultrabook,13.3,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,1.21kg,31229659.612800002,1,2,1,Card onboard
+Dell,Ultrabook,13.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,?,23217946.0128,1,2,1,Card onboard
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,1tb hdd,nvidia geforce gtx 1050,Linux,2.4kg,12482249.788800001,1,2,2,Card rời
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1050,Windows 10,2.9kg,22544962.070400003,1,2,0,Card rời
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,500gb hdd,intel hd graphics 520,No OS,2.1kg,5592176.092800001,1,3,2,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,No OS,2.2kg,8796861.5328,1,1,1,Card onboard
+Huawei,Ultrabook,13,IPS Panel Full HD 2160x1440,Intel Core i7 7500U 2.7GHz,8GB,512gb ssd,intel hd graphics 620,Windows 10,1.05kg,24019117.3728,1,2,1,Card onboard
+Dell,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd,amd radeon 530,Windows 10,1.4kg,14931911.339136,1,2,1,Khác
+Lenovo,Notebook,17.3,1600x900,Intel Core i5 7200U 2.5GHz,8GB,1tb hdd,nvidia geforce gtx 940mx,No OS,2.8kg,9437798.6208,1,1,2,Card rời
+HP,Notebook,14,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd,nvidia geforce 930mx,Windows 10,1.63kg,16520153.443200001,1,2,1,Card rời
+Dell,Ultrabook,14,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,1.6kg,18410917.8528,1,1,1,Card onboard
+Dell,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,16GB,512gb ssd,intel uhd graphics 620,Windows 10,1.62kg,20493963.3888,1,2,1,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,amd radeon 520,Linux,2.2kg,10853468.41392,1,1,1,Khác
+Lenovo,2 in 1 Convertible,14,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,1.74kg,14405061.052800002,1,1,1,Card onboard
+Toshiba,Ultrabook,13.3,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.2kg,21839931.2736,1,2,1,Card onboard
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,1tb hdd,intel uhd graphics 620,Windows 10,2.1kg,12722601.196800001,1,1,2,Card onboard
+Dell,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,4.42kg,39358985.168448,1,2,0,Card rời
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,nvidia geforce 940mx,Windows 10,2.2kg,13331491.4304,1,2,1,Card rời
+Dell,Notebook,15.6,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,16GB,1tb hdd,amd radeon r7 m445,Windows 10,2.3kg,13764284.199072,1,2,2,Khác
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,nvidia geforce 920mx,Windows 10,2kg,12322015.5168,1,1,1,Card rời
+Asus,Notebook,17.3,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd +  500gb hdd,nvidia geforce gtx 950m,Windows 10,2.69kg,14276873.635200001,1,1,0,Card rời
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,1tb hdd,amd firepro w4190m,Windows 10,1.9kg,20333729.116800003,1,2,2,Khác
+Asus,Notebook,15.6,1366x768,Intel Core i3 7100U 2.4GHz,4GB,1tb hdd,intel hd graphics 620,Windows 10,2.37kg,6393187.218528001,1,3,2,Card onboard
+HP,Notebook,15.6,1366x768,AMD E-Series 9000e 1.5GHz,4GB,500gb hdd,amd radeon r2,Windows 10,2.1kg,5287730.976000001,2,other,2,Khác
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,3.2kg,24019117.3728,1,2,0,Card rời
+Dell,Notebook,14,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.6kg,13764123.9648,1,1,1,Card onboard
+Acer,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.6kg,11040141.3408,1,1,1,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16GB,256gb ssd,amd radeon r7 m445,Linux,2.36kg,14405061.052800002,1,2,1,Khác
+Acer,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4GB,1tb hdd,intel hd graphics 520,Linux,2.1kg,6249136.608,1,3,2,Card onboard
+Asus,Notebook,15.6,Full HD 1920x1080,AMD A10-Series A10-9620P 2.5GHz,4GB,128gb ssd +  1tb hdd,amd radeon r5 m430,Windows 10,2.2kg,9213470.64,2,other,0,Khác
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7820HK 2.9GHz,32GB,512gb ssd +  1tb hdd,nvidia geforce gtx 1080,Windows 10,4.7kg,28826145.5328,1,2,0,Card rời
+Acer,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,256gb ssd,nvidia geforce gtx 1050,Windows 10,2.5kg,13555819.4112,1,1,1,Card rời
+Lenovo,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,8GB,128gb ssd,intel hd graphics 520,Windows 10,7.2kg,9437798.6208,1,3,1,Card onboard
+Asus,Notebook,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce 150mx,Windows 10,2.1kg,18346824.144,1,2,0,Card rời
+Asus,Notebook,17.3,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 950m,No OS,2.69kg,14244826.7808,1,2,0,Card rời
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,256gb ssd,nvidia geforce gtx 1050,Windows 10,2.56kg,14084592.508800002,1,1,1,Card rời
+Lenovo,2 in 1 Convertible,13.9,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.38kg,17289277.9488,1,2,1,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,128gb ssd +  2tb hdd,amd radeon 530,Windows 10,2.2kg,15783075.792000001,1,2,0,Khác
+HP,Notebook,15.6,Touchscreen 1366x768,Intel Core i5 7200U 2.5GHz,8GB,1tb hdd,intel hd graphics 620,Windows 10,2.04kg,8957095.8048,1,1,2,Card onboard
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7820HK 2.9GHz,16GB,256gb ssd,nvidia geforce gtx 1080,Windows 10,3.6kg,17609746.4928,1,2,1,Card rời
+HP,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4GB,500gb hdd,intel uhd graphics 620,Windows 10,1.49kg,10815813.36,1,1,2,Card onboard
+Apple,Ultrabook,13.3,IPS Panel Retina Display 2560x1600,Intel Core i5 3.1GHz,8GB,512gb ssd,intel iris plus graphics 650,macOS,1.37kg,32687791.488,1,1,1,Card onboard
+Dell,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,1tb hdd,intel uhd graphics 620,Windows 10,2.08kg,13123186.8768,1,2,2,Card onboard
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 980m,Windows 10,4.3kg,28826145.5328,1,2,0,Card rời
+Asus,Notebook,15.6,1366x768,AMD A9-Series 9420 3GHz,4GB,1tb hdd,amd radeon r5 m420,Windows 10,1.68kg,7514987.3568,2,other,2,Khác
+Lenovo,2 in 1 Convertible,13.9,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,512gb ssd,intel uhd graphics 620,Windows 10,1.37kg,29627316.8928,1,2,1,Card onboard
+Acer,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel Core i3 7130U 2.7GHz,4GB,256gb ssd,nvidia geforce mx130,Windows 10,3kg,11248445.894399999,1,3,1,Card rời
+Dell,Ultrabook,13.3,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,1.41kg,15206232.412800001,1,1,1,Card onboard
+HP,Notebook,15.6,1366x768,AMD A6-Series A6-9220 2.5GHz,8GB,128gb ssd,amd radeon r4 graphics,Windows 10,1.91kg,7144846.18848,2,other,1,Khác
+HP,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16GB,1tb hdd,nvidia geforce mx150,Windows 10,2.9kg,16968809.404799998,1,2,2,Card rời
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,512gb ssd +  1tb hdd,nvidia geforce gtx 1070,Windows 10,4.14kg,40042544.5728,1,2,0,Card rời
+Lenovo,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,512gb ssd,nvidia geforce gtx 1050m,Windows 10,2kg,27223802.8128,1,2,1,Card rời
+Dell,Notebook,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,128gb ssd +  1tb hdd,amd radeon 530,Windows 10,2.8kg,18298753.862400003,1,2,0,Khác
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,256gb ssd,intel hd graphics 520,No OS,2.2kg,7114401.6768000005,1,3,1,Card onboard
+HP,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4GB,500gb hdd,intel hd graphics 620,Windows 10,2.1kg,11568914.438400002,1,1,2,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,1tb hdd,intel hd graphics 620,Windows 10,2.18kg,10527391.6704,1,1,2,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,1tb hdd,amd radeon r5 m430,Windows 10,2.24kg,9053236.368,1,1,2,Khác
+Dell,2 in 1 Convertible,15.6,Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,2.67kg,12802718.3328,1,1,1,Card onboard
+Asus,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,512gb ssd +  512gb ssd,intel uhd graphics 620,Windows 10,4.1kg,24019117.3728,1,2,1,Card onboard
+HP,Notebook,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,1tb hdd,nvidia geforce 930mx,Windows 10,2.5kg,16311848.889600001,1,2,2,Card rời
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,2.05kg,14100615.936,1,2,1,Card onboard
+Apple,Ultrabook,13.3,IPS Panel Retina Display 2560x1600,Intel Core i5 2.9GHz,8GB,512gb ssd,intel iris graphics 550,macOS,1.37kg,31388291.54208,1,1,1,Card onboard
+Asus,Gaming,17.3,Full HD 1920x1080,AMD Ryzen 1700 3GHz,16GB,256gb ssd +  1tb hdd,amd radeon rx 580,Windows 10,3.2kg,24820288.7328,2,other,0,Khác
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd,amd radeon 520,Linux,2.14kg,11778340.631904,1,2,1,Khác
+Lenovo,2 in 1 Convertible,14,Touchscreen 2560x1440,Intel Core i7 6600U 2.6GHz,16GB,512gb ssd,intel hd graphics 520,Windows 10,1.36kg,40042544.5728,1,2,1,Card onboard
+Toshiba,Notebook,15.6,1366x768,Intel Core i7 6500U 2.5GHz,8GB,500gb hdd,nvidia geforce 930m,Windows 10,2.2kg,13011022.886400001,1,2,2,Card rời
+Dell,Notebook,15.6,1366x768,Intel Core i7 7500U 2.7GHz,12GB,1tb hdd,intel hd graphics 620,Windows 10,2.3kg,11425825.233504,1,2,2,Card onboard
+Dell,Notebook,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,128gb ssd +  1tb hdd,amd radeon 530,Linux,2.8kg,17609746.4928,1,2,0,Khác
+Acer,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,1tb hdd,nvidia geforce mx130,Windows 10,2.2kg,11937453.264,1,2,2,Card rời
+Lenovo,Notebook,17.3,1600x900,Intel Core i3 6006U 2GHz,4GB,1tb hdd,intel hd graphics 520,Windows 10,2.8kg,7835455.9008,1,3,2,Card onboard
+Lenovo,Notebook,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,2tb hdd,nvidia geforce mx150,No OS,2.8kg,13603889.6928,1,2,2,Card rời
+Lenovo,Notebook,17.3,1600x900,Intel Core i7 7500U 2.7GHz,6GB,128gb ssd +  1tb hdd,nvidia geforce 940mx,Windows 10,2.8kg,13764123.9648,1,2,0,Card rời
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2.0GHz,4GB,1tb hdd,amd radeon r5 m430,Linux,2.25kg,6858026.8416,1,3,2,Khác
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,256gb ssd,nvidia geforce gtx 1050,Windows 10,2.5kg,13283421.1488,1,1,1,Card rời
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,6GB,256gb ssd,intel hd graphics 620,Windows 10,2.2kg,9277564.3488,1,1,1,Card onboard
+Acer,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd,nvidia geforce mx150,Windows 10,3kg,15238279.2672,1,2,1,Card rời
+Acer,Notebook,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,12GB,1tb hdd,intel hd graphics 620,Windows 10,2.15kg,10559438.524799999,1,2,2,Card onboard
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 630,Windows 10,1.95kg,17577699.638400003,1,2,1,Card onboard
+Asus,Ultrabook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,nvidia geforce 940mx,Windows 10,1.7kg,15654888.3744,1,1,1,Card rời
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,Windows 10,2.5kg,18891620.6688,1,2,0,Card rời
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,1tb hdd,nvidia geforce 940mx,No OS,2.2kg,10559598.759072,1,2,2,Card rời
+Acer,Notebook,15.6,1366x768,Intel Celeron Dual Core 3205U 1.5GHz,2GB,16gb ssd,intel hd graphics,Chrome OS,2.19kg,3188662.0127999997,1,other,1,Card onboard
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,1tb hdd,nvidia geforce gtx 1050,Windows 10,3kg,19019808.086400002,1,2,2,Card rời
+HP,Notebook,17.3,1600x900,Intel Core i3 6006U 2GHz,8GB,1tb hdd,intel hd graphics 520,Windows 10,2.54kg,7835455.9008,1,3,2,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,256gb ssd,nvidia geforce gtx 1050,Windows 10,2kg,29306848.3488,1,2,1,Card rời
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,2.05kg,11841312.7008,1,1,1,Card onboard
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,1tb hdd,nvidia geforce gtx 1060,Windows 10,3.2kg,20814431.932800002,1,2,2,Card rời
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,256gb ssd,nvidia geforce gtx 1050 ti,Linux,2.5kg,15686935.2288,1,2,1,Card rời
+Dell,Workstation,17.3,Full HD 1920x1080,Intel Core i7 7820HQ 2.9GHz,16GB,256gb ssd,nvidia quadro m1200,Windows 10,3.42kg,19212089.2128,1,2,1,Card rời
+Lenovo,Notebook,15.6,Full HD 1920x1080,AMD A10-Series 9600P 2.4GHz,6GB,1tb hdd,amd radeon r5 430,Windows 10,2.4kg,7995690.172800001,2,other,2,Khác
+Asus,Ultrabook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16GB,512gb ssd,nvidia geforce 940mx,Windows 10,1.63kg,23522391.1296,1,2,1,Card rời
+Asus,Notebook,14,1366x768,Intel Core i3 7100U 2.4GHz,4GB,128gb ssd,intel hd graphics 620,Windows 10,1.3kg,8155924.444800001,1,3,1,Card onboard
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,Windows 10,2.9kg,34001712.5184,1,2,0,Card rời
+Lenovo,Notebook,17.3,1600x900,Intel Core i5 7200U 2.5GHz,6GB,1tb hdd,nvidia geforce gtx 940m,Windows 10,5.8kg,10399204.2528,1,1,2,Card rời
+Lenovo,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8GB,2tb hdd,nvidia geforce 940mx,No OS,2.2kg,8796861.5328,1,1,2,Card rời
+Asus,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,Windows 10,2.5kg,20269635.408,1,2,0,Card rời
+Lenovo,Notebook,15.6,1366x768,Intel Pentium Quad Core N4200 1.1GHz,4GB,1tb hdd,intel hd graphics 505,No OS,2.2kg,5768273.557728,1,other,2,Card onboard
+HP,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 7600U 2.8GHz,16GB,256gb ssd,intel hd graphics 620,Windows 10,1.28kg,31646268.720000003,1,2,1,Card onboard
+Toshiba,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256gb ssd,nvidia geforce 930m,Windows 10,2.2kg,16712434.569600001,1,2,1,Card rời
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce 940mx,Windows 10,2.3kg,13123186.8768,1,1,0,Card rời
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,1tb hdd,intel hd graphics 520,Windows 10,1.86kg,7514987.3568,1,3,2,Card onboard
+Lenovo,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.1kg,16007403.7728,1,1,1,Card onboard
+Dell,Ultrabook,13.3,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 8550U 1.8GHz,16GB,1tb ssd,intel uhd graphics 620,Windows 10,1.21kg,40042544.5728,1,2,1,Card onboard
+MSI,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,Windows 10,2.8kg,33633173.6928,1,2,0,Card rời
+Acer,Notebook,15.6,Full HD 1920x1080,AMD A8-Series 7410 2.2GHz,8GB,256gb ssd,amd radeon r5,Windows 10,2.23kg,7514987.3568,2,other,1,Khác
+Asus,2 in 1 Convertible,11.6,Touchscreen 1366x768,Intel Celeron Dual Core N3350 1.1GHz,2GB,32gb flash storage,intel hd graphics 500,Windows 10,1.1kg,4406442.48,1,other,0,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,128gb ssd +  1tb hdd,amd radeon 530,Windows 10,2.33kg,13523772.5568,1,1,0,Khác
+HP,2 in 1 Convertible,13.3,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 8550U 1.8GHz,16GB,1tb ssd,intel uhd graphics 620,Windows 10,1.29kg,39241373.2128,1,2,1,Card onboard
+Lenovo,Notebook,13.3,1366x768,Intel Celeron Dual Core 3855U 1.6GHz,4GB,16gb flash storage,intel hd graphics 510,Chrome OS,1.45kg,7369174.169280001,1,other,0,Card onboard
+HP,Notebook,14,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.95kg,15702958.656000001,1,1,1,Card onboard
+Acer,Notebook,11.6,1366x768,Intel Pentium Quad Core N3710 1.6GHz,4GB,128gb flash storage,intel hd graphics 405,Windows 10,1.4kg,7771362.192,1,other,0,Card onboard
+HP,Notebook,14,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.48kg,20702267.942399997,1,2,1,Card onboard
+Lenovo,Notebook,17.3,1600x900,Intel Core i5 7200U 2.5GHz,4GB,1tb hdd,nvidia geforce 920mx,Windows 10,2.79kg,9437798.6208,1,1,2,Card rời
+Asus,Notebook,14,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,2kg,17529629.3568,1,2,1,Card onboard
+HP,Notebook,15.6,IPS Panel Full HD 1366x768,Intel Core i7 8550U 1.8GHz,8GB,1tb hdd,intel uhd graphics 620,Windows 10,2.1kg,14453131.3344,1,2,2,Card onboard
+Acer,Notebook,15.6,1366x768,AMD A12-Series 9720P 2.7GHz,8GB,256gb ssd,amd radeon rx 540,Windows 10,2.2kg,10559438.524799999,2,other,1,Khác
+Lenovo,Notebook,14,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4GB,32gb flash storage,intel hd graphics 500,Windows 10,1.44kg,4678840.7424,1,other,0,Card onboard
+Acer,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,6GB,1tb hdd,intel hd graphics 620,Windows 10,8.23kg,8796861.5328,1,1,2,Card onboard
+Asus,Ultrabook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,nvidia geforce 940mx,Windows 10,1.7kg,16822996.21728,1,2,1,Card rời
+HP,Ultrabook,12.5,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.26kg,21391275.312000003,1,2,1,Card onboard
+Dell,Notebook,15.6,4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 7700HQ 2.8GHz,32GB,1tb ssd,nvidia geforce gtx 1050,Windows 10,2.06kg,42285824.38080001,1,2,1,Card rời
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,Windows 10,2.7kg,19212089.2128,1,2,0,Card rời
+Toshiba,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,2.0kg,15110091.8496,1,1,1,Card onboard
+Asus,Notebook,14,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd +  1tb hdd,intel hd graphics 620,Windows 10,2kg,21375251.884800002,1,2,0,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,1tb hdd,intel hd graphics 520,Windows 10,1.85kg,7194518.8128,1,3,2,Card onboard
+Asus,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,256gb ssd,nvidia geforce gtx 1050,Windows 10,2.5kg,16007403.7728,1,2,1,Card rời
+HP,Notebook,14,Full HD 1920x1080,Intel Core i5 7300U 2.6GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.48kg,20317705.6896,1,1,1,Card onboard
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.84kg,18330800.7168,1,1,1,Card onboard
+Asus,Notebook,15.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4GB,1tb hdd,intel hd graphics 500,Linux,2kg,4406282.245728,1,other,2,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,nvidia geforce 940mx,Windows 10,2kg,18310771.432800002,1,1,1,Card rời
+Dell,Notebook,15.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4GB,500gb hdd,intel hd graphics,Linux,2.2kg,4404840.13728,1,other,2,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,AMD A12-Series 9720P 3.6GHz,12GB,2tb hdd,amd radeon 530,Windows 10,2.2kg,14405061.052800002,2,other,2,Khác
+HP,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,8GB,1tb hdd,nvidia geforce 930mx,Windows 10,2.1kg,11472773.875200002,1,3,2,Card rời
+Lenovo,2 in 1 Convertible,13.9,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 8550U 1.8GHz,16GB,512gb ssd,intel uhd graphics 620,Windows 10,1.4kg,33633173.6928,1,2,1,Card onboard
+Dell,Ultrabook,13.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,1.2kg,25300991.5488,1,2,1,Card onboard
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  2tb hdd,nvidia geforce gtx 1050 ti,Windows 10,2.4kg,18090449.3088,1,2,0,Card rời
+HP,Notebook,14,1366x768,Intel Celeron Dual Core N3060 1.6GHz,2GB,32gb flash storage,intel hd graphics 400,Windows 10,1.44kg,4470536.188800001,1,other,0,Card onboard
+Dell,Ultrabook,15.6,Full HD 1920x1080,Intel Core i7 8650U 1.9GHz,16GB,512gb ssd +  256gb ssd,intel uhd graphics 620,Windows 10,1.88kg,25765030.000512,1,2,1,Card onboard
+Asus,2 in 1 Convertible,11.6,Touchscreen 1366x768,Intel Celeron Dual Core N3350 1.1GHz,4GB,32gb flash storage,intel hd graphics 500,Windows 10,1.5kg,6008785.2,1,other,0,Card onboard
+Dell,Ultrabook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,1tb hdd,amd radeon 530,Windows 10,0.0002kg,10623532.2336,1,1,2,Khác
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.84kg,20894549.0688,1,2,1,Card onboard
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,2.7kg,22577008.9248,1,2,0,Card rời
+HP,Workstation,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,256gb ssd,nvidia quadro m1200,Windows 10,2.6kg,27853042.798944,1,2,1,Card rời
+Toshiba,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,16GB,512gb ssd,nvidia geforce 930m,Windows 10,2.4kg,22480868.3616,1,2,1,Card rời
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,128gb ssd +  2tb hdd,amd radeon 530,Windows 10,2.02kg,15557145.468480002,1,2,0,Khác
+Lenovo,Notebook,15.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4GB,1tb hdd,intel hd graphics 500,No OS,2.2kg,5159383.324128,1,other,2,Card onboard
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,1tb hdd,nvidia geforce gtx 1050,Windows 10,2.65kg,16007403.7728,1,1,2,Card rời
+Dell,Notebook,15.6,Touchscreen 1366x768,Intel Core i5 7200U 2.5GHz,8GB,2tb hdd,intel hd graphics 620,Windows 10,2.36kg,8930977.618464,1,1,2,Card onboard
+Dell,Notebook,14,Full HD 1920x1080,Intel Core i5 7300U 2.6GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.36kg,22865430.6144,1,1,1,Card onboard
+HP,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4GB,500gb hdd,intel hd graphics 520,Windows 10,1.86kg,7034284.5408,1,3,2,Card onboard
+Asus,Notebook,14,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,2kg,15142138.704,1,1,1,Card onboard
+Lenovo,Notebook,17.3,1600x900,Intel Core i5 7200U 2.5GHz,6GB,128gb ssd +  1tb hdd,nvidia geforce gtx 940mx,Windows 10,2.8kg,11520844.1568,1,1,0,Card rời
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,1tb hdd,intel hd graphics 620,Windows 10,1.86kg,10238969.9808,1,1,2,Card onboard
+Lenovo,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,8GB,256gb ssd,nvidia geforce 920mx,No OS,2.2kg,7995690.172800001,1,3,1,Card rời
+HP,Notebook,15.6,1366x768,Intel Pentium Quad Core N3710 1.6GHz,8GB,2tb hdd,intel hd graphics 405,Windows 10,2.04kg,6233113.180799999,1,other,2,Card onboard
+Dell,Notebook,17.3,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,128gb ssd +  1tb hdd,amd radeon 530,Windows 10,2.8kg,17385418.512000002,1,1,0,Khác
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,No OS,2.4kg,12962952.604799999,1,1,0,Card rời
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,amd radeon r7 m445,Windows 10,2.33kg,14405061.052800002,1,2,1,Khác
+HP,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.36kg,28040997.6,1,2,1,Card onboard
+Asus,2 in 1 Convertible,15.6,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,12GB,512gb ssd +  2tb hdd,nvidia geforce gt 940mx,Windows 10,2.26kg,17609746.4928,1,2,0,Card rời
+Acer,Notebook,15.6,1366x768,AMD A9-Series 9420 3GHz,4GB,128gb ssd,amd radeon r5,Windows 10,2.1kg,6825979.987199999,2,other,1,Khác
+Asus,Gaming,17.3,IPS Panel Full HD 1920x1080,AMD Ryzen 1700 3GHz,16GB,256gb ssd +  1tb hdd,amd radeon rx 580,Windows 10,3.25kg,35235516.4128,2,other,0,Khác
+Lenovo,Notebook,17.3,1600x900,AMD A8-Series 7410 2.2GHz,4GB,128gb ssd,amd radeon r5,Windows 10,2.6kg,7835455.9008,2,other,1,Khác
+Dell,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,1.62kg,13924518.471072001,1,2,1,Card onboard
+HP,Notebook,15.6,Full HD 1920x1080,AMD A9-Series 9420 3GHz,4GB,256gb ssd,amd radeon r5,Windows 10,1.91kg,7835295.6665280005,2,other,1,Khác
+Lenovo,Netbook,11.6,IPS Panel 1366x768,Intel Celeron Quad Core N3450 1.1GHz,4GB,128gb ssd,intel hd graphics 500,Windows 10,1.59kg,8860955.241600001,1,other,1,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Celeron Dual Core N3060 1.60GHz,4GB,500gb hdd,intel hd graphics 400,Windows 10,1.8kg,4951239.0048,1,other,2,Card onboard
+Asus,Notebook,14,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4GB,32gb flash storage,intel hd graphics 500,Windows 10,1.5kg,4582700.1792,1,other,0,Card onboard
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,1tb hdd,nvidia geforce gtx 1050,Linux,2.4kg,13555819.4112,1,2,2,Card rời
+HP,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,Windows 10,3.35kg,19083901.7952,1,2,0,Card rời
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,128gb ssd,intel hd graphics 520,No OS,1.85kg,6465452.8752,1,3,1,Card onboard
+Asus,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,2.3kg,26518772.016,1,2,0,Card rời
+Lenovo,Notebook,14,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,nvidia geforce 940mx,Windows 10,1.5kg,17609746.4928,1,1,1,Card rời
+Asus,Ultrabook,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,16GB,512gb ssd,intel hd graphics 620,Windows 10,1.1kg,28023371.830080003,1,2,1,Card onboard
+Lenovo,Ultrabook,14,IPS Panel 2560x1440,Intel Core i7 7500U 2.7GHz,8GB,512gb ssd,intel hd graphics 620,Windows 10,1.13kg,36565460.870400004,1,2,1,Card onboard
+Lenovo,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,4GB,128gb ssd,intel hd graphics 620,Windows 10,1.5kg,8796861.5328,1,3,1,Card onboard
+Dell,Workstation,15.6,Full HD 1920x1080,Intel Core i5 6440HQ 2.6GHz,8GB,500gb hdd,amd firepro w5130m,Windows 10,2.23kg,21936071.8368,1,1,2,Khác
+Dell,Workstation,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6820HQ 2.7GHz,8GB,256gb ssd,nvidia quadro m1200,Windows 10,2kg,34210017.072000004,1,2,1,Card rời
+Lenovo,2 in 1 Convertible,14,Touchscreen 2560x1440,Intel Core i7 7500U 2.7GHz,16GB,512gb ssd,intel hd graphics 620,Windows 10,1.42kg,40202778.844799995,1,2,1,Card onboard
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,1tb hdd,nvidia geforce gtx 1050,Windows 10,3kg,16648340.8608,1,2,2,Card rời
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,Windows 10,3kg,25493272.6752,1,2,0,Card rời
+Acer,Notebook,15.6,IPS Panel 1366x768,Intel Core i5 8250U 1.6GHz,12GB,1tb hdd,nvidia geforce mx130,Windows 10,2.2kg,11120098.242528,1,1,2,Card rời
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,256gb ssd,nvidia geforce gtx 1050 ti,Windows 10,2.7kg,21615603.2928,1,2,1,Card rời
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,amd radeon r7 m445,Linux,2.33kg,12480166.743264,1,2,1,Khác
+HP,Ultrabook,15.6,Full HD 1920x1080,AMD A9-Series 9420 3GHz,4GB,256gb ssd,amd radeon 520,Windows 10,1.91kg,7995690.172800001,2,other,1,Khác
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd,amd radeon rx 550,Windows 10,2.1kg,19701765.148032002,1,2,1,Khác
+Lenovo,Notebook,14,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.9kg,15029974.7136,1,1,1,Card onboard
+Dell,Workstation,15.6,4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 7700HQ 2.8GHz,8GB,256gb ssd,nvidia quadro m1200,Windows 10,1.78kg,43455534.5664,1,2,1,Card rời
+Lenovo,Ultrabook,14,IPS Panel 2560x1440,Intel Core i7 7500U 2.7GHz,16GB,1tb ssd,intel hd graphics 620,Windows 10,1.13kg,42061496.4,1,2,1,Card onboard
+Lenovo,Notebook,15.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4GB,1tb hdd,intel hd graphics 500,Windows 10,2.2kg,4903168.7232,1,other,2,Card onboard
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1050,Windows 10,2.9kg,24499820.1888,1,2,0,Card rời
+Lenovo,Notebook,25.6,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd +  1tb hdd,amd radeon rx 550,Windows 10,2.1kg,18338812.4304,1,1,0,Khác
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,256gb ssd,nvidia geforce gtx 1050,Linux,2.5kg,14084592.508800002,1,2,1,Card rời
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,Windows 10,2.8kg,36036687.7728,1,2,0,Card rời
+Asus,Ultrabook,14,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,512gb ssd,intel hd graphics 620,Windows 10,1.10kg,30011879.145600002,1,2,1,Card onboard
+Toshiba,Ultrabook,13.3,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,16GB,512gb ssd,intel hd graphics 520,Windows 10,1.2kg,27992927.318400003,1,2,1,Card onboard
+Dell,Ultrabook,14,Full HD 1920x1080,Intel Core i7 7600U 2.8GHz,8GB,512gb ssd,intel hd graphics,Windows 10,1.36kg,26919357.696,1,2,1,Card onboard
+Lenovo,Notebook,35.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,500gb hdd,intel hd graphics 520,Windows 10,2.2kg,6553581.7248,1,3,2,Card onboard
+Lenovo,Notebook,11.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,2GB,32gb flash storage,intel hd graphics 500,Windows 10,1.15kg,4878332.41104,1,other,0,Card onboard
+Lenovo,Workstation,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,512gb ssd,nvidia quadro m1200,Windows 10,2.67kg,30845097.36,1,2,1,Card rời
+Lenovo,Ultrabook,14,IPS Panel Full HD 2560x1440,Intel Core i7 7700HQ 2.8GHz,8GB,512gb ssd,nvidia geforce gt 940mx,Windows 10,1.7kg,31133519.049599998,1,2,1,Card rời
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,1tb hdd,amd radeon 520,Windows 10,2.1kg,7514987.3568,1,3,2,Khác
+Acer,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.6kg,12642644.295072,1,2,1,Card onboard
+Asus,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.27kg,14869740.441599999,1,1,1,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,256gb ssd,amd radeon r5 m430,Linux,2.3kg,9596430.55008,1,1,1,Khác
+Dell,Notebook,13.3,1366x768,Intel Core i3 6006U 2GHz,4GB,128gb ssd,intel hd graphics 520,Windows 10,1.65kg,11040141.3408,1,3,1,Card onboard
+HP,Ultrabook,14,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.43kg,24035140.8,1,2,1,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8GB,1tb hdd,intel hd graphics 620,Windows 10,2.14kg,8651849.51664,1,1,2,Card onboard
+Lenovo,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd,amd radeon rx 550,Windows 10,1.75kg,19474552.950336,1,2,1,Khác
+Lenovo,2 in 1 Convertible,15.6,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 7700HQ 2.8GHz,16GB,512gb ssd,nvidia geforce gtx 1050,Windows 10,2kg,30428488.252800003,1,2,1,Card rời
+Chuwi,Notebook,12.3,IPS Panel Retina Display 2736x1824,Intel Celeron Quad Core N3450 1.1GHz,6GB,64gb flash storage,intel hd graphics 500,Windows 10,1.4kg,7194518.8128,1,other,0,Card onboard
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7820HQ 2.9GHz,8GB,256gb ssd,intel hd graphics 630,Windows 10,2.31kg,22865430.6144,1,2,1,Card onboard
+Asus,Notebook,35.6,Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,8GB,1tb hdd,nvidia geforce 940mx,Linux,2.3kg,9565986.0384,1,3,2,Card rời
+Dell,Gaming,27.3,IPS Panel 2560x1440,Intel Core i7 7820HK 2.9GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,Windows 10,4.42kg,44849572.7328,1,2,0,Card rời
+Dell,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,Windows 10,2.62kg,18571152.1248,1,2,0,Card rời
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd +  2tb hdd,amd radeon 530,Windows 10,2.02kg,18305163.23328,1,2,0,Khác
+Dell,Ultrabook,14,Full HD 1920x1080,Intel Core i7 7600U 2.8GHz,8GB,256gb ssd,intel hd graphics 620,Linux,1.6kg,17609746.4928,1,2,1,Card onboard
+HP,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,12GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,Windows 10,3.35kg,32030830.9728,1,2,0,Card rời
+Mediacom,2 in 1 Convertible,11.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Celeron Dual Core N3350 1.1GHz,4GB,32gb ssd,intel hd graphics 500,Windows 10,1.16kg,4791004.7328,1,other,1,Card onboard
+Samsung,Netbook,11.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4GB,16gb flash storage,intel hd graphics 400,Chrome OS,1.15kg,4310301.9168,1,other,0,Card onboard
+Lenovo,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.4kg,16183661.472000001,1,2,1,Card onboard
+Lenovo,Notebook,14,IPS Panel Full HD 1920x1080,Intel Core i3 7130U 2.7GHz,4GB,128gb ssd,intel hd graphics 620,Windows 10,1.7kg,9598032.892800001,1,3,1,Card onboard
+Lenovo,Workstation,15.6,IPS Panel 4K Ultra HD 3840x2160,Intel Core i7 7600U 2.8GHz,16GB,512gb ssd,nvidia geforce 940mx,Windows 10,2.3kg,39177279.504,1,2,1,Card rời
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7820HQ 2.9GHz,16GB,512gb ssd,nvidia quadro m2200m,Windows 10,2.5kg,39241373.2128,1,2,1,Card rời
+Asus,Gaming,17.3,Full HD 1920x1080,AMD Ryzen 1600 3.2GHz,8GB,256gb ssd +  1tb hdd,amd radeon rx 580,Windows 10,3.2kg,27159709.104000002,2,other,0,Khác
+HP,Notebook,15.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4GB,500gb hdd,intel hd graphics 400,Windows 10,2.1kg,5560129.2384,1,other,2,Card onboard
+Google,Ultrabook,12.3,Touchscreen 2400x1600,Intel Core i7 7Y75 1.3GHz,16GB,512gb ssd,intel hd graphics 615,Chrome OS,1.1kg,35235516.4128,1,2,1,Card onboard
+Lenovo,Ultrabook,24,2560x1440,Intel Core i7 7500U 2.7GHz,24GB,512gb ssd,intel hd graphics 620,Windows 10,1.32kg,38167803.5904,1,2,1,Card onboard
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,256gb ssd,intel hd graphics 620,Linux,2kg,8957095.8048,1,1,1,Card onboard
+Lenovo,Notebook,17.3,1600x900,AMD A6-Series 9220 2.5GHz,8GB,1tb hdd,amd radeon r4,Windows 10,2.8kg,8316158.7168000005,2,other,2,Khác
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4GB,256gb ssd,amd radeon 530,Windows 10,2.2kg,12001546.972800002,1,1,1,Khác
+Lenovo,Ultrabook,12.5,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.36kg,22897477.4688,1,1,1,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Pentium Quad Core N4200 1.1GHz,4GB,128gb ssd,intel hd graphics 505,Windows 10,2.2kg,5592176.092800001,1,other,1,Card onboard
+HP,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,Windows 10,2.2kg,17609746.4928,1,2,0,Card rời
+Dell,Notebook,14,Full HD 1920x1080,Intel Core i5 7440HQ 2.8GHz,8GB,256gb ssd,nvidia geforce 930mx,Windows 10,1.64kg,18891620.6688,1,1,1,Card rời
+Acer,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4GB,500gb hdd,intel hd graphics 620,Linux,2.4kg,7079150.13696,1,1,2,Card onboard
+Dell,Workstation,15.6,Full HD 1920x1080,Intel Xeon E3-1505M V6 3GHz,8GB,64gb flash storage +  1tb hdd,nvidia quadro m620,Windows 10,2.23kg,31934690.4096,1,other,2,Card rời
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,256gb ssd,nvidia geforce gtx 1050,Windows 10,2.2kg,16467917.070528,1,1,1,Card rời
+Microsoft,Ultrabook,13.5,Touchscreen 2256x1504,Intel Core i7 7660U 2.5GHz,16GB,512gb ssd,intel iris plus graphics 640,Windows 10 S,1.25kg,41484653.0208,1,2,1,Card onboard
+HP,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8GB,128gb ssd,intel hd graphics 620,Windows 10,1.91kg,9437798.6208,1,1,1,Card onboard
+Dell,Workstation,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6820HQ 2.7GHz,16GB,256gb ssd,nvidia quadro m620,Windows 10,2.17kg,31646268.720000003,1,2,1,Card rời
+HP,Workstation,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7820HQ 2.9GHz,8GB,512gb ssd,intel hd graphics 620,Windows 10,2.31kg,24579937.324800003,1,2,1,Card onboard
+Lenovo,Notebook,14,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.65kg,21551509.584000003,1,1,1,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,128gb ssd +  1tb hdd,amd radeon 530,Windows 10,2.36kg,15686935.2288,1,2,0,Khác
+Dell,2 in 1 Convertible,11.6,Touchscreen 1366x768,Intel Pentium Quad Core N3710 1.6GHz,4GB,500gb hdd,intel hd graphics 405,Windows 10,1.47kg,7675221.6288,1,other,2,Card onboard
+Dell,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.7GHz,8GB,1tb hdd,nvidia geforce gtx 1060,Windows 10,4.42kg,32783932.051200002,1,2,2,Card rời
+Microsoft,Ultrabook,13.5,Touchscreen 2256x1504,Intel Core M m3-7Y30 2.2GHz,4GB,128gb ssd,intel hd graphics 615,Windows 10 S,1.252kg,15847169.5008,1,other,1,Card onboard
+Microsoft,Ultrabook,33.5,Touchscreen 2256x1504,Intel Core i7 7660U 2.5GHz,8GB,256gb ssd,intel iris plus graphics 640,Windows 10 S,1.25kg,28826145.5328,1,2,1,Card onboard
+HP,Notebook,17.3,1600x900,Intel Core i3 6006U 2GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,2.5kg,10253391.065280002,1,3,1,Card onboard
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,1tb hdd,nvidia geforce 940mx,Windows 10,2.23kg,8716744.3968,1,3,2,Card rời
+Acer,Netbook,11.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4GB,128gb ssd,intel hd graphics 400,Windows 10,1.4kg,6970190.832,1,other,1,Card onboard
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,1tb hdd,intel hd graphics 620,Windows 10,2.37kg,12001546.972800002,1,1,2,Card onboard
+Lenovo,Notebook,14,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,512gb ssd,amd radeon r7 m460,No OS,1.5kg,12802718.3328,1,2,1,Khác
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7820HQ 2.9GHz,8GB,256gb ssd,nvidia quadro m2200m,Windows 10,2.67kg,33488962.848,1,2,1,Card rời
+Asus,Notebook,15.6,1366x768,Intel Pentium Quad Core N4200 1.1GHz,4GB,500gb hdd,intel hd graphics 500,Windows 10,2kg,4871121.8688,1,other,2,Card onboard
+Acer,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4GB,500gb hdd,nvidia geforce gtx 940mx,Windows 10,2.2kg,7514987.3568,1,3,2,Card rời
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,2tb hdd,amd radeon 530,Windows 10,2.02kg,12161781.2448,1,1,2,Khác
+HP,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,12GB,1tb hdd,nvidia geforce gtx 1060,Windows 10,3.78kg,27223802.8128,1,2,2,Card rời
+Lenovo,Ultrabook,14,IPS Panel Quad HD+ 2560x1440,Intel Core i7 6600U 2.6GHz,12GB,256gb ssd,intel hd graphics 520,Windows 10,1.4kg,29771527.737600002,1,2,1,Card onboard
+HP,2 in 1 Convertible,13.3,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 8550U 1.8GHz,8GB,512gb ssd,intel uhd graphics 620,Windows 10,1.29kg,32030830.9728,1,2,1,Card onboard
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,500gb hdd,amd firepro w4190m,Windows 10,1.9kg,18491034.9888,1,1,2,Khác
+Google,Ultrabook,12.3,Touchscreen 2400x1600,Intel Core i5 7Y57 1.2GHz,8GB,128gb ssd,intel hd graphics 615,Chrome OS,1.1kg,20429869.68,1,1,1,Card onboard
+Dell,Ultrabook,13.3,Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,1.42kg,29512749.38832,1,1,1,Card onboard
+Asus,Notebook,15.6,IPS Panel 4K Ultra HD 3840x2160,Intel Core i7 6700HQ 2.6GHz,12GB,128gb ssd +  1tb hdd,intel hd graphics 530,Windows 10,2.06kg,20814431.932800002,1,2,0,Card onboard
+Dell,Notebook,14,1366x768,Intel Core i3 6100U 2.3GHz,8GB,128gb ssd,intel hd graphics 520,Windows 10,1.79kg,11857336.127999999,1,3,1,Card onboard
+Dell,Workstation,?,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,256gb ssd,nvidia quadro m1200,Windows 10,1.78kg,38584412.6976,1,2,1,Card rời
+Lenovo,Notebook,14,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,180gb ssd,intel hd graphics 620,Windows 10,1.7kg,21855954.7008,1,1,1,Card onboard
+Toshiba,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.05kg,26791170.2784,1,1,1,Card onboard
+Dell,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,512gb ssd,nvidia geforce 940mx,Windows 10,2.16kg,20221565.1264,1,2,1,Card rời
+Dell,Notebook,15.6,1366x768,Intel Core i3 7100U 2.4GHz,4GB,1tb hdd,intel hd graphics 620,Windows 10,2.18kg,9399342.39552,1,3,2,Card onboard
+HP,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4GB,128gb ssd,intel uhd graphics 620,Windows 10,1.49kg,11633008.1472,1,1,1,Card onboard
+Chuwi,Notebook,15.6,Full HD 1920x1080,Intel Atom x5-Z8350 1.44GHz,4GB,64gb flash storage,intel hd graphics,Windows 10,1.89kg,3988231.03008,1,other,0,Card onboard
+Lenovo,Notebook,15.6,1366x768,Intel Core i3 6006U 2.0GHz,4GB,128gb ssd,intel hd graphics 520,Windows 10,2.3kg,9053236.368,1,3,1,Card onboard
+Lenovo,Notebook,14,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,1.75kg,16808575.1328,1,1,1,Card onboard
+Dell,Workstation,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6820HQ 2.7GHz,16GB,512gb ssd,nvidia quadro m620,Windows 10,2.17kg,37462772.7936,1,2,1,Card rời
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,512gb ssd,nvidia geforce gtx 1050,Windows 10,2.06kg,30428488.252800003,1,2,1,Card rời
+Lenovo,Ultrabook,12.5,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16GB,512gb ssd,intel hd graphics 620,Windows 10,1.36kg,28810122.105600003,1,2,1,Card onboard
+Asus,Ultrabook,12.5,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16GB,512gb ssd,intel hd graphics 620,Windows 10,0.91kg,31245683.04,1,2,1,Card onboard
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,nvidia geforce 940mx,Windows 10,2.3kg,16215548.092128001,1,1,1,Card rời
+Toshiba,Ultrabook,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,32GB,512gb ssd,intel hd graphics 620,Windows 10,1.05kg,44849572.7328,1,2,1,Card onboard
+Asus,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,Windows 10,1.99kg,21631626.72,1,2,0,Card rời
+Acer,Notebook,15.6,1366x768,AMD A10-Series 9620P 2.5GHz,8GB,1tb hdd,amd radeon rx 540,Windows 10,2.2kg,9277564.3488,2,other,2,Khác
+Asus,Gaming,17.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6700HQ 2.6GHz,24GB,256gb ssd +  1tb hdd,nvidia geforce gtx 965m,Windows 10,4.33kg,20333729.116800003,1,2,0,Card rời
+Lenovo,Ultrabook,12.5,IPS Panel 1366x768,Intel Core i5 6200U 2.3GHz,8GB,180gb ssd,intel hd graphics 520,Windows 10,1.3kg,17609746.4928,1,1,1,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,2.17kg,14403458.71008,1,2,1,Card onboard
+HP,Notebook,14,Full HD 1920x1080,Intel Core i7 7600U 2.8GHz,8GB,1tb ssd,intel hd graphics 620,Windows 10,1.48kg,28024974.1728,1,2,1,Card onboard
+Lenovo,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.4kg,15206232.412800001,1,3,1,Card onboard
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,2.3kg,14597342.179200001,1,1,1,Card onboard
+Asus,Netbook,11.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4GB,64gb flash storage,intel hd graphics 500,Windows 10 S,1.2kg,5447965.248000001,1,other,0,Card onboard
+HP,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,amd radeon 520,Windows 10,1.91kg,9918341.202528,1,1,1,Khác
+Lenovo,2 in 1 Convertible,13.9,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,1.4kg,25621460.092800003,1,1,1,Card onboard
+Lenovo,Notebook,14,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4GB,500gb hdd,intel hd graphics 500,Windows 10,2.1kg,4791004.7328,1,other,2,Card onboard
+Lenovo,Netbook,11.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4GB,16gb ssd,intel hd graphics 400,Chrome OS,1.25kg,4246208.208000001,1,other,1,Card onboard
+Lenovo,Notebook,13.3,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.44kg,15206232.412800001,1,1,1,Card onboard
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd +  1tb hdd,intel hd graphics 620,Windows 10,2kg,19612674.8928,1,2,0,Card onboard
+Acer,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4GB,1tb hdd,nvidia geforce mx150,Windows 10,2.2kg,9822360.8736,1,1,2,Card rời
+HP,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,512gb ssd,intel hd graphics 620,Windows 10,1.34kg,21198994.1856,1,2,1,Card onboard
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,No OS,2.4kg,18410917.8528,1,2,0,Card rời
+Dell,Ultrabook,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,128gb ssd,intel hd graphics 620,Windows 10,1.29kg,14405061.052800002,1,1,1,Card onboard
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,4GB,500gb hdd,nvidia geforce 940mx,Windows 10,2.2kg,10238969.9808,1,2,2,Card rời
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,1tb hdd,intel hd graphics 620,Windows 10,2.18kg,13395585.1392,1,1,2,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16GB,256gb ssd +  2tb hdd,amd radeon 530,Windows 10,2.2kg,19536403.379328,1,2,0,Khác
+Xiaomi,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16GB,256gb ssd,nvidia geforce mx150,No OS,1.95kg,22431996.90864,1,2,1,Card rời
+Asus,Netbook,11.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,2GB,32gb flash storage,intel hd graphics 500,Windows 10,1.1kg,3925739.6640000003,1,other,0,Card onboard
+HP,Notebook,15.6,Touchscreen 1366x768,Intel Core i5 8250U 1.6GHz,4GB,1tb hdd,intel uhd graphics 620,Windows 10,2.04kg,8355736.581984,1,1,2,Card onboard
+Asus,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,24GB,512gb ssd,nvidia geforce gtx1080,Windows 10,2.24kg,24019117.3728,1,2,1,Card rời
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,nvidia geforce 930mx,Windows 10,2.04kg,14244826.7808,1,1,1,Card rời
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx1050 ti,Windows 10,3kg,24099234.5088,1,2,0,Card rời
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,3.2kg,22416774.6528,1,2,0,Card rời
+HP,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.32kg,22416774.6528,1,2,1,Card onboard
+Dell,Notebook,14,Full HD 1920x1080,Intel Core i5 7300U 2.6GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.64kg,20505660.490656,1,1,1,Card onboard
+HP,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4GB,128gb ssd,intel hd graphics 520,Windows 10,1.63kg,11040141.3408,1,3,1,Card onboard
+Dell,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,128gb ssd +  1tb hdd,amd radeon 530,Linux,2.8kg,14244826.7808,1,1,0,Khác
+Lenovo,Notebook,24,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256gb ssd,intel hd graphics 520,Windows 7,2.02kg,21471392.448,1,1,1,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,4GB,1tb hdd,nvidia geforce 920mx,Windows 10,2.2kg,12802718.3328,1,2,2,Card rời
+Lenovo,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,8GB,2tb hdd,nvidia geforce 920mx,No OS,2.2kg,7354753.0848,1,3,2,Card rời
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,500gb hdd,amd radeon r5 m430,Windows 10,2.3kg,9373704.912,1,1,2,Khác
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7440HQ 2.8GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.9kg,22064259.2544,1,1,1,Card onboard
+Dell,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1070,Windows 10,4.42kg,20814431.932800002,1,2,0,Card rời
+Toshiba,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,500gb hdd,intel hd graphics 620,Windows 10,2.0kg,13780147.392,1,1,2,Card onboard
+Asus,Notebook,15.6,IPS Panel 4K Ultra HD 3840x2160,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd +  1tb hdd,nvidia geforce gtx 960m,Windows 10,2kg,20814431.932800002,1,2,0,Card rời
+Mediacom,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Celeron Quad Core N3450 1.1GHz,4GB,32gb ssd,intel hd graphics 500,Windows 10,1.2kg,5912644.6368,1,other,1,Card onboard
+Asus,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,2.3kg,26422631.452800002,1,1,0,Card rời
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7600U 2.8GHz,8GB,256gb ssd,nvidia geforce 930mx,Windows 10,1.93kg,21936071.8368,1,2,1,Card rời
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,amd radeon 530,Windows 10,2.2kg,12777241.083552001,1,1,1,Khác
+HP,Notebook,15.6,Full HD 1920x1080,Intel Pentium Quad Core N3710 1.6GHz,4GB,256gb ssd,intel hd graphics 405,Windows 10,1.86kg,6393187.218528001,1,other,1,Card onboard
+HP,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,12GB,1tb hdd,nvidia geforce gtx 1060,Windows 10,2.62kg,28826145.5328,1,2,2,Card rời
+Lenovo,Notebook,14,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,nvidia geforce 940mx,Windows 10,1.87kg,13764123.9648,1,2,1,Card rời
+Dell,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,1.2kg,22416774.6528,1,2,1,Card onboard
+Dell,Notebook,14,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,128gb ssd,intel hd graphics 520,Windows 10,1.6kg,11791159.373664,1,3,1,Card onboard
+HP,Ultrabook,13.3,IPS Panel Quad HD+ 3200x1800,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.34kg,18346824.144,1,2,1,Card onboard
+Acer,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,1tb hdd,nvidia geforce gtx 1050,Linux,2.4kg,12786694.9056,1,1,2,Card rời
+Asus,Notebook,15.6,1366x768,AMD E-Series 7110 1.8GHz,4GB,500gb hdd,amd radeon r2 graphics,Windows 10,2kg,5592176.092800001,2,other,2,Khác
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,4GB,128gb ssd,intel hd graphics 620,Windows 10,2.1kg,11304527.889600001,1,3,1,Card onboard
+Lenovo,Notebook,14,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,500gb hdd,intel hd graphics 620,Windows 10,1.87kg,12578390.352000002,1,1,2,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4GB,1tb hdd,intel hd graphics 520,No OS,2.15kg,7408431.565920001,1,1,2,Card onboard
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,500gb hdd,intel hd graphics 520,Windows 10,1.86kg,6361300.5984000005,1,3,2,Card onboard
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,512gb ssd,intel hd graphics 620,Windows 10,1.99kg,27704505.6288,1,2,1,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,128gb ssd,intel hd graphics 520,Windows 10,2.2kg,7995690.172800001,1,3,1,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.9kg,17898007.948128,1,1,1,Card onboard
+Dell,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,Windows 10,4.42kg,43247230.0128,1,2,0,Card rời
+HP,Notebook,17.3,1600x900,Intel Core i3 6006U 2GHz,8GB,1tb hdd,intel hd graphics 520,Windows 10,2.65kg,8719147.910880001,1,3,2,Card onboard
+HP,Notebook,17.3,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,1tb hdd,nvidia geforce 930mx,Windows 10,2.63kg,20509986.816,1,2,2,Card rời
+Asus,Notebook,15.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4GB,500gb hdd,intel hd graphics 500,Linux,2kg,3589247.6928,1,other,2,Card onboard
+Mediacom,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Atom x5-Z8350 1.44GHz,4GB,32gb flash storage,intel hd graphics,Windows 10,1.35kg,4085973.936,1,other,0,Card onboard
+Lenovo,Notebook,17.3,1600x900,Intel Core i7 7500U 2.7GHz,6GB,128gb ssd +  1tb hdd,nvidia geforce 940mx,Windows 10,2.8kg,15206232.412800001,1,2,0,Card rời
+HP,Notebook,15.6,IPS Panel Full HD 1920x1080,AMD A10-Series A10-9620P 2.5GHz,6GB,128gb ssd,amd radeon 530,Windows 10,1.91kg,9115727.73408,2,other,1,Khác
+Dell,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4GB,1tb hdd,amd radeon r5 m420,Windows 10,2.18kg,9900875.66688,1,3,2,Khác
+Acer,2 in 1 Convertible,11.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Celeron Dual Core N3350 2.0GHz,4GB,32gb flash storage,intel hd graphics 500,Windows 10,1.25kg,5592176.092800001,1,other,0,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i3 7130U 2.7GHz,4GB,128gb ssd,intel hd graphics 620,Windows 10,2.05kg,10094759.136,1,3,1,Card onboard
+HP,Ultrabook,13.3,IPS Panel Quad HD+ / Touchscreen 3200x1800,Intel Core M 6Y75 1.2GHz,16GB,512gb ssd,intel hd graphics 515,Windows 10,1.16kg,31486034.448,1,other,1,Card onboard
+Lenovo,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,256gb ssd,nvidia quadro m620m,Windows 10,3.4kg,24019117.3728,1,2,1,Card rời
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,Windows 10,2.5kg,13443655.4208,1,1,0,Card rời
+Dell,Ultrabook,13.3,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core i5 8250U 1.6GHz,8GB,128gb ssd,intel uhd graphics 620,Windows 10,1.21kg,25621460.092800003,1,1,1,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Core i5 7300U 2.6GHz,4GB,500gb hdd,intel hd graphics 620,Windows 10,1.93kg,15366466.684799999,1,1,2,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Pentium Quad Core N4200 1.1GHz,4GB,500gb hdd,intel hd graphics 505,Windows 10,2.2kg,5512058.9568,1,other,2,Card onboard
+Lenovo,Notebook,14,1366x768,Intel Core i5 7200U 2.5GHz,4GB,500gb hdd,intel hd graphics 620,Windows 10,2.02kg,15863192.928,1,1,2,Card onboard
+HP,Workstation,17.3,1600x900,Intel Core i5 7440HQ 2.8GHz,8GB,500gb hdd,nvidia quadro m1200,Windows 10,3.14kg,29819437.784928,1,1,2,Card rời
+HP,Notebook,14,1366x768,Intel Pentium Quad Core N3710 1.6GHz,8GB,2tb hdd,intel hd graphics 405,Windows 10,1.94kg,6233113.180799999,1,other,2,Card onboard
+HP,Notebook,15.6,IPS Panel Full HD 1920x1080,AMD A9-Series A9-9420 3GHz,6GB,256gb ssd,amd radeon 530,Windows 10,1.95kg,10399204.2528,2,other,1,Khác
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,2.3kg,13299444.576000001,1,1,1,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4GB,500gb hdd,intel hd graphics 620,Windows 10,2.05kg,10976047.632000001,1,1,2,Card onboard
+Mediacom,Notebook,14,Full HD 1920x1080,Intel Atom x5-Z8350 1.44GHz,4GB,32gb ssd,intel hd graphics,Windows 10,1.4kg,3989833.3728,1,other,1,Card onboard
+Toshiba,Ultrabook,14,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,16GB,512gb ssd,intel hd graphics 620,Windows 10,1.24kg,29883691.728,1,2,1,Card onboard
+Lenovo,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6820HK 2.7GHz,32GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,Windows 10,4.6kg,42670386.633600004,1,2,0,Card rời
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7820HK 2.9GHz,16GB,512gb ssd +  1tb hdd,nvidia geforce gtx 1070,Windows 10,4.14kg,43727932.8288,1,2,0,Card rời
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,amd radeon r5 m430,Linux,2.2kg,12001707.207072001,1,2,1,Khác
+Mediacom,Notebook,14,IPS Panel Full HD 1920x1080,Intel Celeron Quad Core N3450 1.1GHz,4GB,32gb ssd,intel hd graphics 500,Windows 10,1.45kg,6233113.180799999,1,other,1,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Core i5 7300U 2.6GHz,8GB,500gb hdd,intel hd graphics 620,Windows 10,1.9kg,16159946.799744,1,1,2,Card onboard
+HP,Notebook,13.3,Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,4GB,128gb ssd,intel hd graphics 620,Windows 10,1.49kg,11520844.1568,1,3,1,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7600U 2.8GHz,16GB,256gb ssd,nvidia geforce 930mx,Windows 10,1.93kg,24634256.743008003,1,2,1,Card rời
+Dell,Netbook,11.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4GB,16gb flash storage,intel hd graphics 400,Chrome OS,1.26kg,4726911.024,1,other,0,Card onboard
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 6820HK 2.7GHz,16GB,128gb ssd +  1tb hdd,nvidia geforce gtx 980m,Windows 10,4.5kg,37639030.492800005,1,2,0,Card rời
+HP,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1050,Windows 10,3.78kg,24003093.945600003,1,2,0,Card rời
+Lenovo,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel Core i7 6600U 2.6GHz,12GB,256gb ssd,intel hd graphics 520,Windows 10,8.4kg,26807193.7056,1,2,1,Card onboard
+Lenovo,Notebook,15.6,Touchscreen 1366x768,Intel Core i7 8550U 1.8GHz,12GB,1tb hdd,intel hd graphics 620,Windows 10,2.2kg,9758267.164800001,1,2,2,Card onboard
+Asus,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,2.73kg,28361466.144,1,1,0,Card rời
+Asus,2 in 1 Convertible,15.6,Touchscreen 1366x768,Intel Core i5 7200U 2.5GHz,8GB,1tb hdd,intel hd graphics 520,Windows 10,2.2kg,11841312.7008,1,1,2,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,AMD A12-Series 9720P 3.6GHz,12GB,512gb ssd,amd radeon 530,Windows 10,2.2kg,15206232.412800001,2,other,1,Khác
+Dell,2 in 1 Convertible,31.6,Touchscreen 1366x768,Intel Core M 7Y30 1.0GHz,4GB,128gb ssd,intel hd graphics 615,Windows 10,1.39kg,9662126.6016,1,other,1,Card onboard
+Samsung,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,Windows 10,2.5kg,27223802.8128,1,2,0,Card rời
+Lenovo,Notebook,17.3,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,500gb hdd,intel hd graphics 520,No OS,2.8kg,8476392.9888,1,3,2,Card onboard
+Lenovo,Notebook,15.6,1366x768,Intel Core i3 6100U 2.3GHz,8GB,1tb hdd,intel hd graphics 520,Windows 10,2.29kg,7354753.0848,1,3,2,Card onboard
+Lenovo,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,512gb ssd,intel hd graphics 620,Windows 10,1.37kg,32447440.080000002,1,2,1,Card onboard
+Lenovo,Notebook,14,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,256gb ssd,intel hd graphics 630,Windows 10,1.7kg,23618531.6928,1,1,1,Card onboard
+Dell,2 in 1 Convertible,12.5,Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.34kg,26759123.424000002,1,1,1,Card onboard
+Dell,Workstation,15.6,Full HD / Touchscreen 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,256gb ssd,nvidia quadro m620,Windows 10,2.06kg,28249302.1536,1,2,1,Card rời
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.84kg,19532557.7568,1,2,1,Card onboard
+HP,Notebook,15.6,1366x768,Intel Core i3 7100U 2.4GHz,4GB,500gb hdd,intel hd graphics 620,Windows 10,2.1kg,10711340.614656,1,3,2,Card onboard
+Acer,Notebook,14,Full HD 1920x1080,Intel Celeron Quad Core N3450 1.1GHz,4GB,32gb flash storage,intel hd graphics 500,Windows 10,1.6kg,5271707.5488,1,other,0,Card onboard
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 6820HK 2.7GHz,16GB,128gb ssd +  1tb hdd,nvidia geforce gtx 970m,Windows 10,4.14kg,35235516.4128,1,2,0,Card rời
+Dell,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4GB,1tb hdd,amd radeon r5 m420,Linux,2.18kg,7450893.648,1,3,2,Khác
+MSI,Gaming,15.6,4K Ultra HD 3840x2160,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  2tb hdd,nvidia geforce gtx 1060,Windows 10,1.8kg,36837859.1328,1,2,0,Card rời
+Toshiba,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,2.2kg,22416774.6528,1,2,1,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,6GB,1tb hdd,intel hd graphics 620,Windows 10,2.4kg,9037212.9408,1,1,2,Card onboard
+Lenovo,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,256gb ssd,intel hd graphics 630,Windows 10,2kg,20814431.932800002,1,2,1,Card onboard
+Acer,Notebook,14,1366x768,Intel Pentium Quad Core N3710 1.6GHz,4GB,128gb flash storage,intel hd graphics 405,Windows 10,1.6kg,5592176.092800001,1,other,0,Card onboard
+Lenovo,Notebook,15.6,IPS Panel 4K Ultra HD 3840x2160,Intel Xeon E3-1535M v6 3.1GHz,32GB,1tb ssd,nvidia quadro m2200m,Windows 10,2.5kg,19212089.2128,1,other,1,Card rời
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,1tb hdd,nvidia geforce gtx 960<u+039c>,Windows 10,2.59kg,14084752.743072001,1,2,2,Card rời
+Dell,Notebook,15.6,1366x768,Intel Core i3 6006U 2.0GHz,4GB,1tb hdd,intel hd graphics 520,Linux,2.18kg,7112799.3340799995,1,3,2,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Core i3 6006U 2.0GHz,4GB,1tb hdd,intel hd graphics 520,Linux,2.25kg,5752410.364800001,1,3,2,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Core i5 7300U 2.6GHz,4GB,500gb hdd,intel hd graphics 620,Linux,1.93kg,13924358.2368,1,1,2,Card onboard
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,Windows 10,3kg,18715362.9696,1,2,0,Card rời
+HP,Ultrabook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,512gb ssd,intel hd graphics 620,Windows 10,1.84kg,22256540.3808,1,2,1,Card onboard
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,Windows 10,2.94kg,36338889.609792,1,2,0,Card rời
+Acer,2 in 1 Convertible,11.6,IPS Panel Touchscreen 1366x768,Intel Celeron Quad Core N3160 1.6GHz,4GB,32gb flash storage,intel hd graphics 400,Chrome OS,1.25kg,6072878.9088,1,other,0,Card onboard
+HP,Notebook,14,1366x768,Intel Core i5 7300U 2.6GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,2.31kg,18010332.1728,1,1,1,Card onboard
+Lenovo,Notebook,14,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256gb ssd,intel hd graphics 520,Windows 7,1.65kg,23474320.848,1,1,1,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4GB,1tb hdd,amd radeon 530,Windows 10,2.2kg,12434179.5072,1,1,2,Khác
+Fujitsu,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,2.2kg,12802718.3328,1,1,1,Card onboard
+HP,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4GB,500gb hdd,intel hd graphics 520,Windows 7,1.88kg,14933834.1504,1,1,2,Card onboard
+Mediacom,Notebook,14,Full HD 1920x1080,Intel Atom x5-Z8350 1.44GHz,2GB,32gb flash storage,intel hd graphics,Windows 10,1.4kg,3829599.1008,1,other,0,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,128gb ssd,intel hd graphics 620,No OS,2.2kg,7498963.9296,1,1,1,Card onboard
+Asus,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,6GB,1tb hdd,intel hd graphics 620,Windows 10,1.5kg,10239130.215072,1,1,2,Card onboard
+Asus,Ultrabook,14,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16GB,512gb ssd,intel hd graphics 620,Windows 10,11.1kg,30444511.68,1,2,1,Card onboard
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,Windows 10,2.62kg,23698648.8288,1,2,0,Card rời
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4GB,256gb ssd,intel uhd graphics 620,Windows 10,1.8kg,13283421.1488,1,1,1,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,1tb hdd,nvidia geforce 920mx,Windows 10,2.2kg,9277564.3488,1,3,2,Card rời
+Asus,Notebook,15.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,8GB,1tb hdd,intel hd graphics 500,Windows 10,2kg,6393347.4528,1,other,2,Card onboard
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,1tb hdd,nvidia geforce gtx 1050,Windows 10,1.99kg,14527159.568064,1,1,2,Card rời
+Dell,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,1.23kg,29947785.436800003,1,1,1,Card onboard
+Lenovo,Notebook,14,1366x768,Intel Celeron Dual Core N3060 1.6GHz,2GB,32gb flash storage,intel hd graphics 400,Windows 10,1.42kg,3989833.3728,1,other,0,Card onboard
+Lenovo,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.37kg,28159891.429824002,1,2,1,Card onboard
+Dell,Notebook,15.6,4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 7700HQ 2.8GHz,16GB,1tb ssd,nvidia geforce gtx 1050,Windows 10,2.06kg,38440201.852800004,1,2,1,Card rời
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050m,Windows 10,2.5kg,17769980.7648,1,2,0,Card rời
+HP,Notebook,17,1600x900,AMD A9-Series 9420 3GHz,8GB,1tb hdd,amd radeon r5,Windows 10,2.6kg,8346603.22848,2,other,2,Khác
+Lenovo,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16GB,512gb ssd,intel hd graphics 620,Windows 10,1.14kg,39257396.64,1,2,1,Card onboard
+Asus,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,1tb hdd,nvidia geforce gtx 1050 ti,No OS,2.5kg,18731386.3968,1,2,2,Card rời
+Acer,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4GB,500gb hdd,intel hd graphics 520,Windows 10,2.4kg,7210542.24,1,3,2,Card onboard
+Lenovo,Notebook,14,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4GB,32gb flash storage,intel hd graphics,Windows 10,1.43kg,4390419.0528,1,other,0,Card onboard
+Acer,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel graphics 620,Windows 10,1.8kg,14725529.5968,1,1,1,Card onboard
+Razer,Gaming,14,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd,nvidia geforce gtx 1060,Windows 10,1.95kg,41644887.2928,1,2,1,Card rời
+Toshiba,Notebook,13.3,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.2kg,19436417.1936,1,1,1,Card onboard
+Lenovo,Ultrabook,12.5,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.36kg,25381108.684800003,1,2,1,Card onboard
+Asus,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6820HK 2.7GHz,32GB,512gb ssd,nvidia geforce gtx 1080,Windows 10,3.8kg,44849572.7328,1,2,1,Card rời
+Acer,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,1tb hdd,nvidia geforce gtx 1050,Linux,2.4kg,11360609.8848,1,1,2,Card rời
+Dell,Ultrabook,13.3,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,256gb ssd,intel uhd graphics 620,Windows 10,1.2kg,23232367.097280003,1,1,1,Card onboard
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,Windows 10,2.2kg,19096720.536960002,1,2,0,Card rời
+HP,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4GB,500gb hdd,intel hd graphics 520,No OS,1.86kg,5846948.58528,1,3,2,Card onboard
+Toshiba,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,500gb hdd,intel hd graphics 620,Windows 10,2.0kg,17048926.5408,1,1,2,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,256gb ssd,amd radeon 530,Windows 10,6.2kg,14725529.5968,1,2,1,Khác
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16GB,256gb ssd +  2tb hdd,amd radeon 530,Windows 10,2.2kg,18186589.872,1,2,0,Khác
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 960,Windows 10,3.31kg,19164018.9312,1,2,0,Card rời
+Dell,Gaming,17.3,IPS Panel 4K Ultra HD 3840x2160,Intel Core i7 7700HQ 2.8GHz,32GB,512gb ssd +  1tb hdd,nvidia geforce gtx 1070,Windows 10,4.42kg,19212089.2128,1,2,0,Card rời
+Dell,Notebook,14,Full HD 1920x1080,Intel Core i5 6300U 2.4GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.56kg,19692792.028800003,1,1,1,Card onboard
+Lenovo,Notebook,15.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4GB,500gb hdd,intel hd graphics 500,Windows 10,2.2kg,6713815.9968,1,other,2,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4GB,500gb hdd,intel hd graphics 520,Windows 10,2.2kg,8572533.552,1,1,2,Card onboard
+HP,Notebook,15.6,1920x1080,Intel Core i3 6006U 2GHz,6GB,1tb hdd,amd radeon r5 m430,Windows 10,2.04kg,8636627.2608,1,3,2,Khác
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,2.7kg,23823150.858144,1,2,0,Card rời
+Toshiba,Notebook,15.6,1366x768,Intel Core i3 6100U 2.1GHz,4GB,128gb ssd,intel hd graphics 520,Windows 10,2.1kg,7979666.7456,1,3,1,Card onboard
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,1tb hdd,amd radeon 530,Windows 10,2.1kg,11937453.264,1,2,2,Khác
+Toshiba,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,2.0kg,20157471.417600002,1,1,1,Card onboard
+Acer,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4GB,128gb ssd,intel hd graphics 520,Linux,2.1kg,6601652.0064,1,3,1,Card onboard
+Microsoft,Ultrabook,13.5,Touchscreen 2256x1504,Intel Core i7 7600U 2.8GHz,8GB,256gb ssd,intel iris plus graphics 640,Windows 10 S,1.252kg,29929358.49552,1,2,1,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,128gb ssd +  1tb hdd,amd radeon r5 m430,Windows 10,1.90kg,13106362.278239999,1,1,0,Khác
+Lenovo,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.3kg,16568223.7248,1,1,1,Card onboard
+Lenovo,Notebook,35.6,1366x768,AMD E-Series E2-9000 2.2GHz,4GB,128gb ssd,amd radeon r2 graphics,Windows 10,2.2kg,5592176.092800001,2,other,1,Khác
+HP,2 in 1 Convertible,14,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i3 7100U 2.4GHz,4GB,128gb ssd,nvidia geforce 940mx,Windows 10,1.63kg,11200375.6128,1,3,1,Card rời
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1050,Windows 10,2.4kg,20734314.796800002,1,2,0,Card rời
+Asus,Ultrabook,14,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.1kg,18186589.872,1,1,1,Card onboard
+HP,2 in 1 Convertible,11.6,Touchscreen 1366x768,Intel Celeron Dual Core N3350 1.1GHz,8GB,64gb flash storage,intel hd graphics 500,Chrome OS,1.4kg,7931596.464,1,other,0,Card onboard
+LG,Ultrabook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,512gb ssd,intel hd graphics 620,Windows 10,1.09kg,36837859.1328,1,2,1,Card onboard
+Acer,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,16GB,256gb ssd,nvidia geforce gtx 1050 ti,Windows 10,2.5kg,20814431.932800002,1,1,1,Card rời
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,256gb ssd,nvidia geforce gtx 1050,Windows 10,2.2kg,15989778.002880001,1,1,1,Card rời
+Asus,Notebook,15.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4GB,128gb ssd,intel hd graphics 500,Windows 10,1.86kg,6713815.9968,1,other,1,Card onboard
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,16GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,3.21kg,32864049.187200002,1,1,0,Card rời
+HP,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,256gb ssd,amd radeon r5 520,Windows 10,2.5kg,11200375.6128,1,3,1,Khác
+Lenovo,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,8GB,512gb ssd,intel uhd graphics 620,Windows 10,1.19kg,24019117.3728,1,2,1,Card onboard
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7820HK 2.9GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,Windows 10,3.49kg,45085918.284,1,2,0,Card rời
+HP,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4GB,500gb hdd,amd radeon 520,Windows 10,1.86kg,9816111.736992,1,1,2,Khác
+Dell,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4GB,1tb hdd,amd radeon r5 m430,Windows 10,2.2kg,8743503.520224001,1,3,2,Khác
+HP,Notebook,17.3,IPS Panel Full HD 1920x1080,AMD A10-Series 9600P 2.4GHz,6GB,2tb hdd,amd radeon r7 m440,Windows 10,2.65kg,9117330.0768,2,other,2,Khác
+Lenovo,Notebook,15.6,1366x768,Intel Celeron Dual Core 3855U 1.6GHz,4GB,500gb hdd,intel hd graphics 510,Windows 10,2.1kg,5095449.8496,1,other,2,Card onboard
+Acer,Notebook,14,1366x768,Intel Celeron Dual Core 3855U 1.6GHz,4GB,32gb flash storage,intel hd graphics 510,Chrome OS,1.45kg,6008785.2,1,other,0,Card onboard
+Lenovo,Notebook,14,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,256gb ssd,intel hd graphics 620,Windows 10,1.7kg,11200375.6128,1,1,1,Card onboard
+HP,Workstation,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,500gb hdd,nvidia quadro m1200,Windows 10,3.14kg,30572538.863328002,1,2,2,Card rời
+Lenovo,2 in 1 Convertible,14,Touchscreen 2560x1440,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.42kg,41500676.44800001,1,2,1,Card onboard
+Toshiba,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.5kg,15590794.665600002,1,1,1,Card onboard
+Acer,Netbook,11.6,1366x768,Intel Celeron Dual Core N3050 1.6GHz,4GB,32gb flash storage,intel hd graphics,Windows 10,1.4kg,4310301.9168,1,other,0,Card onboard
+Lenovo,2 in 1 Convertible,14,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,16GB,512gb ssd,intel hd graphics 620,Windows 10,1.38kg,28024974.1728,1,2,1,Card onboard
+Asus,2 in 1 Convertible,12.5,Full HD / Touchscreen 1920x1080,Intel Core M M3-6Y30 0.9GHz,4GB,64gb flash storage,intel hd graphics 515,Chrome OS,1.2kg,10719672.7968,1,other,0,Card onboard
+Toshiba,Ultrabook,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.5GHz,16GB,512gb ssd,intel hd graphics 520,Windows 10,1.36kg,30075972.8544,1,2,1,Card onboard
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,1tb hdd,nvidia geforce gtx 1050,Windows 10,2.56kg,13123186.8768,1,1,2,Card rời
+Lenovo,Notebook,15.6,Full HD 1920x1080,AMD A9-Series 9420 2.9GHz,4GB,256gb ssd,amd radeon 530,Windows 10,2.2kg,6393347.4528,2,other,1,Khác
+Lenovo,Notebook,15.6,1366x768,AMD A12-Series 9720P 3.6GHz,8GB,1tb hdd,amd radeon r7,Windows 10,2.2kg,6874050.2688,2,other,2,Khác
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,1tb hdd +  1tb hdd,intel hd graphics 620,Windows 10,2.1kg,9957758.83344,1,1,2,Card onboard
+Lenovo,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4GB,500gb hdd,intel hd graphics 520,No OS,1.90kg,7210542.24,1,3,2,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,2.18kg,12738624.624,1,1,1,Card onboard
+Acer,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,1GB,256gb ssd,intel uhd graphics 620,Windows 10,1.6kg,16007403.7728,1,1,1,Card onboard
+Lenovo,Workstation,15.6,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,16GB,512gb ssd,nvidia quadro m520m,Windows 7,2.18kg,29723457.456,1,2,1,Card rời
+Lenovo,Notebook,14,Full HD 1920x1080,Intel Core i5 6300HQ 2.3GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.8kg,19083901.7952,1,1,1,Card onboard
+HP,Notebook,17.3,IPS Panel Full HD 1920x1080,AMD A10-Series 9620P 2.5GHz,6GB,2tb hdd,amd radeon 530,Windows 10,2.71kg,10495505.050272001,2,other,2,Khác
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,Windows 10,2.5kg,20013260.5728,1,2,0,Card rời
+Dell,Notebook,14,Full HD 1920x1080,Intel Core i5 7440HQ 2.8GHz,8GB,256gb ssd,nvidia geforce 930mx,Linux,1.64kg,17449512.2208,1,1,1,Card rời
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,1tb hdd,intel hd graphics 620,Linux,1.98kg,11633008.1472,1,1,2,Card onboard
+Asus,Notebook,14,Full HD 1920x1080,Intel Celeron Dual Core N3350 1.1GHz,4GB,32gb flash storage,intel hd graphics 500,Windows 10,1.5kg,4774981.305600001,1,other,0,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7300U 2.6GHz,16GB,512gb ssd,intel hd graphics 620,Windows 10,1.93kg,22859982.649152,1,1,1,Card onboard
+Lenovo,Notebook,14,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,nvidia geforce 920mx,Windows 10,1.87kg,13733198.750304,1,1,1,Card rời
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7300U 2.6GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.9kg,18891620.6688,1,1,1,Card onboard
+Lenovo,Notebook,15.6,1366x768,AMD A6-Series 7310 2GHz,4GB,500gb hdd,amd radeon r4,Windows 10,2.19kg,4774981.305600001,2,other,2,Khác
+Mediacom,Notebook,14,IPS Panel Full HD 1920x1200,Intel Atom Z8350 1.92GHz,4GB,32gb hdd,intel hd graphics 400,Windows 10,1.4kg,4246208.208000001,1,other,2,Card onboard
+HP,Notebook,17.3,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,nvidia geforce 930mx,Windows 10,2.63kg,19228112.64,1,2,1,Card rời
+Lenovo,Ultrabook,14,IPS Panel Quad HD+ 2560x1440,Intel Core i7 6500U 2.5GHz,64GB,512gb ssd,intel hd graphics 520,Windows 10,1.17kg,27025753.252608,1,2,1,Card onboard
+HP,2 in 1 Convertible,13.3,IPS Panel Touchscreen 1366x768,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.58kg,13405199.19552,1,1,1,Card onboard
+Lenovo,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.32kg,24019117.3728,1,1,1,Card onboard
+Dell,Gaming,17.3,4K Ultra HD 3840x2160,Intel Core i7 7700HQ 2.8GHz,32GB,1tb ssd +  1tb hdd,nvidia geforce gtx 1070,Windows 10,4.36kg,28826145.5328,1,2,0,Card rời
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,Windows 10,2.7kg,21607271.110656,1,2,0,Card rời
+Lenovo,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4GB,1tb hdd,intel hd graphics 620,No OS,1.9kg,7849876.98528,1,1,2,Card onboard
+Dell,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i3 7100U 2.4GHz,4GB,1tb hdd,intel hd graphics 620,Windows 10,1.71kg,10399204.2528,1,3,2,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8GB,1tb hdd,amd radeon r7 m445,Linux,2.32kg,9446130.802944,1,1,2,Khác
+HP,Notebook,15.6,Full HD 1920x1080,AMD A9-Series 9420 3GHz,4GB,1tb hdd,amd radeon 520,Windows 10,2.1kg,7835455.9008,2,other,2,Khác
+Acer,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,4.2kg,31005331.632000003,1,2,0,Card rời
+Dell,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,12GB,1tb hdd,intel hd graphics 620,Windows 10,2.25kg,10399204.2528,1,1,2,Card onboard
+HP,Notebook,15.6,Full HD 1920x1080,AMD A9-Series A9-9420 3GHz,6GB,128gb ssd +  1tb hdd,amd radeon 520,Windows 10,2.1kg,10415227.68,2,other,0,Khác
+Acer,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4GB,500gb hdd,intel hd graphics 620,Windows 10,2.4kg,8957095.8048,1,1,2,Card onboard
+Lenovo,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.44kg,15382490.112000002,1,1,1,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,4GB,1tb hdd,intel hd graphics 620,Windows 10,1.85kg,12482249.788800001,1,2,2,Card onboard
+HP,Workstation,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd,nvidia quadro m2200,Windows 10,2.6kg,38760670.396800004,1,2,1,Card rời
+Dell,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,8GB,1tb hdd,intel uhd graphics 620,Windows 10,1.55kg,10559438.524799999,1,1,2,Card onboard
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,1.8kg,33560747.801856,1,2,0,Card rời
+Acer,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4GB,500gb hdd,intel hd graphics 520,Windows 10,2.4kg,6582423.89376,1,3,2,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce 940mx,Windows 10,2.0kg,19340276.630400002,1,2,0,Card rời
+Dell,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,2kg,10655579.088,1,3,1,Card onboard
+Toshiba,Notebook,14,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.25kg,24595960.752,1,1,1,Card onboard
+Lenovo,2 in 1 Convertible,14,Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.7kg,16007403.7728,1,1,1,Card onboard
+Lenovo,Workstation,15.6,IPS Panel 4K Ultra HD 3840x2160,Intel Core i7 7600U 2.8GHz,16GB,1tb ssd,nvidia quadro m520m,Windows 10,2.5kg,20814431.932800002,1,2,1,Card rời
+Acer,Notebook,14,1366x768,Intel Celeron Dual Core N3060 1.6GHz,2GB,32gb flash storage,intel hd graphics 400,Chrome OS,1.68kg,5287730.976000001,1,other,0,Card onboard
+Samsung,Ultrabook,13.3,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16GB,256gb ssd,intel hd graphics 620,Windows 10,0.81kg,26422631.452800002,1,2,1,Card onboard
+Dell,Notebook,14,1366x768,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.6kg,18053755.660512,1,1,1,Card onboard
+HP,Workstation,17.3,IPS Panel Full HD 1920x1080,Intel Xeon E3-1535M v5 2.9GHz,16GB,256gb ssd,nvidia quadro m2000m,Windows 7,3kg,24019117.3728,1,other,1,Card rời
+Lenovo,Netbook,11.6,Touchscreen 1366x768,Intel Celeron Dual Core N3060 1.6GHz,4GB,128gb ssd,intel hd graphics 400,Windows 10,1.4kg,7611127.92,1,other,1,Card onboard
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6300U 2.4GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.84kg,30444511.68,1,1,1,Card onboard
+Asus,Notebook,15.6,1366x768,Intel Core i5 6300HQ 2.3GHz,4GB,1tb hdd,nvidia geforce gtx 950m,No OS,2.45kg,9277564.3488,1,1,2,Card rời
+Asus,Notebook,15.6,1366x768,Intel Core i7 7500U 2.7GHz,4GB,256gb ssd,intel hd graphics 620,Windows 10,2.37kg,13618310.77728,1,2,1,Card onboard
+Lenovo,2 in 1 Convertible,13.3,IPS Panel Quad HD+ / Touchscreen 3200x1800,Intel Core i5 6260U 1.8GHz,8GB,256gb ssd,intel hd graphics 540,Windows 10,1.3kg,19212089.2128,1,1,1,Card onboard
+HP,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,Windows 10,2.2kg,17609746.4928,1,1,0,Card rời
+HP,Workstation,15.6,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,256gb ssd,nvidia quadro m1000m,Windows 7,2.59kg,25012569.8592,1,2,1,Card rời
+Dell,Gaming,15.6,IPS Panel 4K Ultra HD 3840x2160,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,Windows 10,4.42kg,28826145.5328,1,2,0,Card rời
+Acer,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4GB,256gb ssd,intel hd graphics 620,Windows 10,2.1kg,9598032.892800001,1,1,1,Card onboard
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,Windows 10,2.5kg,16792551.7056,1,2,0,Card rời
+Dell,Ultrabook,12.5,Full HD 1920x1080,Intel Core i7 7600U 2.8GHz,16GB,256gb ssd,intel hd graphics 620,Windows 10,1.18kg,29787551.164800003,1,2,1,Card onboard
+Google,Ultrabook,12.3,Touchscreen 2400x1600,Intel Core i5 7Y57 1.2GHz,8GB,256gb ssd,intel hd graphics 615,Chrome OS,1.1kg,24980523.004800003,1,1,1,Card onboard
+Asus,Ultrabook,13.3,IPS Panel Quad HD+ 3200x1800,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.2kg,18090449.3088,1,1,1,Card onboard
+Dell,Notebook,13.3,1366x768,Intel Core i3 6006U 2GHz,4GB,500gb hdd,intel hd graphics 520,Windows 10,1.65kg,13603889.6928,1,3,2,Card onboard
+Acer,Notebook,13.3,1366x768,Intel Core i5 6200U 2.3GHz,4GB,128gb ssd,intel hd graphics 520,Windows 10,1.6kg,10495344.816000002,1,1,1,Card onboard
+Asus,Notebook,17.3,1366x768,Intel Pentium Quad Core N4200 1.1GHz,4GB,1tb hdd,nvidia geforce 920mx,Windows 10,2.8kg,7536458.749248,1,other,2,Card rời
+Dell,Gaming,15.6,IPS Panel Touchscreen / 4K Ultra HD 3840x2160,Intel Core i7 6700HQ 2.6GHz,16GB,128gb ssd +  1tb hdd,nvidia geforce gtx 960m,Windows 10,2.72kg,17609746.4928,1,2,0,Card rời
+Samsung,Ultrabook,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.31kg,25621460.092800003,1,2,1,Card onboard
+Acer,Notebook,15.6,1366x768,Intel Pentium Quad Core N4200 1.1GHz,4GB,1tb hdd,intel hd graphics 505,Linux,2.1kg,4774981.305600001,1,other,2,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16GB,?,amd radeon r7 m445,Windows 10,2.3kg,18927993.848544,1,2,0,Khác
+Samsung,2 in 1 Convertible,15,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,16GB,256gb ssd,amd radeon 540,Windows 10,1.71kg,28826145.5328,1,2,1,Khác
+Toshiba,Notebook,14,IPS Panel 1366x768,Intel Core i5 6200U 2.3GHz,4GB,128gb ssd,intel hd graphics 520,Windows 10,1.75kg,16343895.744,1,1,1,Card onboard
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,1tb hdd,nvidia geforce gtx 1050,Windows 10,2.62kg,17609746.4928,1,2,2,Card rời
+Asus,2 in 1 Convertible,15.6,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,12GB,2tb hdd,nvidia geforce 940mx,Windows 10,2.3kg,13443655.4208,1,2,2,Card rời
+Lenovo,Notebook,15.6,4K Ultra HD 3840x2160,Intel Core i7 6820HQ 2.7GHz,16GB,512gb ssd,nvidia quadro m2000m,Windows 7,2.5kg,37975522.464,1,2,1,Card rời
+Acer,Notebook,14,IPS Panel Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,4GB,128gb ssd,intel hd graphics 620,Windows 10,1.8kg,10190899.6992,1,3,1,Card onboard
+Razer,Gaming,14,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,512gb ssd,nvidia geforce gtx 1060,Windows 10,1.95kg,28826145.5328,1,2,1,Card rời
+Asus,Notebook,15.6,1920x1080,Intel Pentium Dual Core N4200 1.1GHz,8GB,128gb ssd,intel hd graphics 505,Windows 10,2kg,9324032.28768,1,other,1,Card onboard
+Dell,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,32GB,1tb ssd +  1tb hdd,nvidia geforce gtx 1070m,Windows 10,4.42kg,24019117.3728,1,2,0,Card rời
+Asus,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,Windows 10,4.3kg,37655053.92,1,2,0,Card rời
+Toshiba,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel Core i7 6600U 2.6GHz,16GB,512gb ssd,nvidia geforce 930m,Windows 10,1.47kg,28265325.5808,1,2,1,Card rời
+Lenovo,Notebook,15.6,1366x768,Intel Celeron Quad Core N3710 1.6GHz,8GB,1tb hdd,intel hd graphics 405,No OS,2.2kg,5271707.5488,1,other,2,Card onboard
+Lenovo,Ultrabook,14,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16GB,512gb ssd,intel hd graphics 620,Windows 10,1.7kg,36837859.1328,1,2,1,Card onboard
+MSI,Gaming,14,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,1.6kg,30300300.8352,1,2,0,Card rời
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,Windows 10,2.2kg,17449512.2208,1,1,0,Card rời
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,4GB,1tb hdd,nvidia geforce gtx 1050,Windows 10,2.4kg,16007403.7728,1,2,2,Card rời
+Acer,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,4.2kg,36837859.1328,1,2,0,Card rời
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,256gb ssd,nvidia geforce gtx 1050,Windows 10,2.62kg,15783075.792000001,1,1,1,Card rời
+Asus,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx1060,Windows 10,2.24kg,21455369.020800002,1,2,0,Card rời
+Vero,Notebook,14,1920x1080,Intel Celeron Dual Core N3350 1.1GHz,4GB,32gb flash storage,intel hd graphics 500,Windows 10,1.22kg,3251153.37888,1,other,0,Card onboard
+Lenovo,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,512gb ssd,intel hd graphics 620,Windows 10,1.37kg,31566151.584000003,1,2,1,Card onboard
+Lenovo,2 in 1 Convertible,15.6,Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,amd radeon r7 m460,Windows 10,2.08kg,15366466.684799999,1,1,1,Khác
+Apple,Ultrabook,12,IPS Panel Retina Display 2304x1440,Intel Core M 1.2GHz,8GB,512gb flash storage,intel hd graphics 5300,Mac OS X,0.920kg,18667292.688,1,other,0,Card onboard
+Lenovo,2 in 1 Convertible,14,IPS Panel Touchscreen 2560x1440,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.42kg,37334585.376,1,1,1,Card onboard
+Asus,Notebook,14,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4GB,32gb flash storage,intel hd graphics 500,Windows 10,1.63kg,4791004.7328,1,other,0,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8GB,128gb ssd,intel hd graphics 620,Windows 10,1.95kg,12978976.032000002,1,1,1,Card onboard
+Lenovo,2 in 1 Convertible,13.9,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.38kg,21615603.2928,1,2,1,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,8GB,256gb ssd,amd radeon r5 m420x,Windows 10,2kg,11841312.7008,1,3,1,Khác
+HP,Workstation,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,256gb ssd,nvidia quadro m2200,Windows 10,3.14kg,33086774.825280003,1,2,1,Card rời
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,2.37kg,17609746.4928,1,1,1,Card onboard
+Dell,Ultrabook,13.3,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.29kg,24019117.3728,1,1,1,Card onboard
+Dell,Notebook,15.6,4K Ultra HD / Touchscreen 3840x2160,Intel Core i5 7300HQ 2.5GHz,8GB,256gb ssd,nvidia geforce gtx 1050,Windows 10,2.06kg,28024974.1728,1,1,1,Card rời
+Dell,Netbook,11.6,1366x768,Intel Pentium Quad Core N4200 1.1GHz,4GB,128gb ssd,intel hd graphics 505,Windows 10,1.63kg,11921429.8368,1,other,1,Card onboard
+HP,Netbook,12.5,1366x768,Intel Core i5 7300U 2.6GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.26kg,22256540.3808,1,1,1,Card onboard
+Toshiba,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4GB,500gb hdd,intel hd graphics 520,Windows 10,2.1kg,12498273.216,1,1,2,Card onboard
+HP,Notebook,15.6,1366x768,AMD A12-Series 9700P 2.5GHz,8GB,2tb hdd,amd radeon r7 graphics,Windows 10,2.04kg,10078735.708800001,2,other,2,Khác
+Dell,Gaming,15.6,4K Ultra HD 3840x2160,Intel Core i7 7700HQ 2.8GHz,16GB,512gb ssd,nvidia geforce gtx 1050 ti,Windows 10,2.62kg,26903334.268799998,1,2,1,Card rời
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,1tb hdd,nvidia geforce 920m,Windows 10,2.4kg,9758267.164800001,1,1,2,Card rời
+HP,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,12GB,1tb hdd,amd radeon rx 580,Windows 10,3.74kg,28024974.1728,1,2,2,Khác
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,512gb ssd +  1tb hdd,nvidia geforce gtx 1070,Windows 10,2.9kg,38696576.688,1,2,0,Card rời
+Samsung,Ultrabook,13.3,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,0.81kg,24019117.3728,1,1,1,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,1tb hdd,nvidia geforce gt 940mx,Windows 10,1.98kg,15398513.5392,1,2,2,Card rời
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,amd radeon r5 m420,Windows 10,2.18kg,12655463.036832001,1,1,1,Khác
+Lenovo,Ultrabook,14,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.32kg,29787551.164800003,1,2,1,Card onboard
+Razer,Ultrabook,12.5,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 7500U 2.5GHz,16GB,512gb ssd,intel hd graphics 620,Windows 10,1.29kg,28826145.5328,1,2,1,Card onboard
+HP,Netbook,11.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4GB,16gb flash storage,intel hd graphics 400,Chrome OS,1.23kg,6169019.472,1,other,0,Card onboard
+Dell,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,4.36kg,40139005.604544,1,2,0,Card rời
+Dell,Notebook,14,1366x768,Intel Core i5 6200U 2.3GHz,4GB,500gb hdd,intel hd graphics 520,Windows 10,1.76kg,12097687.536,1,1,2,Card onboard
+Lenovo,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4GB,500gb hdd,intel hd graphics 520,Windows 10,2.1kg,7849876.98528,1,3,2,Card onboard
+Toshiba,Ultrabook,14,1366x768,Intel Core i5 7200U 2.5GHz,4GB,128gb ssd,intel hd graphics 620,Windows 10,1.25kg,17465535.648,1,1,1,Card onboard
+Lenovo,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,512gb ssd,intel hd graphics 620,Windows 10,1.13kg,40042544.5728,1,2,1,Card onboard
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,256gb ssd,nvidia geforce gtx 1050,Windows 10,2.4kg,19212089.2128,1,1,1,Card rời
+Lenovo,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb flash storage,intel hd graphics 620,Windows 10,1.13kg,30043926.0,1,1,0,Card onboard
+Toshiba,Notebook,14,1366x768,Intel Pentium Dual Core 4405U 2.1GHz,4GB,128gb ssd,intel hd graphics 510,Windows 10,1.75kg,7995690.172800001,1,other,1,Card onboard
+Asus,2 in 1 Convertible,13.3,Touchscreen / Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.1kg,21759814.1376,1,1,1,Card onboard
+Dell,Notebook,14,1366x768,Intel Core i3 6006U 2GHz,4GB,500gb hdd,intel hd graphics 520,Windows 10,1.76kg,9373704.912,1,3,2,Card onboard
+Acer,Netbook,11.6,IPS Panel 1366x768,Intel Celeron Dual Core N3060 1.6GHz,4GB,32gb flash storage,intel hd graphics 400,Chrome OS,1.35kg,5688316.656,1,other,0,Card onboard
+Acer,Notebook,14,IPS Panel Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,8GB,128gb ssd,intel hd graphics 620,Windows 10,1.5kg,9918501.4368,1,3,1,Card onboard
+Razer,Gaming,17.3,4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 7820HK 2.9GHz,32GB,512gb ssd,nvidia geforce gtx 1080,Windows 10,3.49kg,17609746.4928,1,2,1,Card rời
+Lenovo,Ultrabook,14,IPS Panel Quad HD+ 2560x1440,Intel Core i7 6600U 2.6GHz,16GB,512gb ssd,intel hd graphics 520,Windows 10,1.1kg,33633173.6928,1,2,1,Card onboard
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,1tb hdd,nvidia geforce 920,Linux,2.1kg,8316158.7168000005,1,1,2,Card rời
+Lenovo,Notebook,14,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.7kg,19003784.6592,1,1,1,Card onboard
+Lenovo,Notebook,14,IPS Panel Full HD 1920x1080,Intel Core i5 7300U 2.6GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.32kg,26438654.88,1,1,1,Card onboard
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,Windows 10,3.21kg,44459081.811936006,1,2,0,Card rời
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,Windows 10,2.9kg,38760670.396800004,1,2,0,Card rời
+Toshiba,Notebook,15.6,1366x768,Intel Core i3 7100U 2.4GHz,4GB,500gb hdd,intel hd graphics 620,Windows 10,2.0kg,10719672.7968,1,3,2,Card onboard
+Lenovo,Notebook,14,1366x768,Intel Celeron Quad Core N3160 1.6GHz,4GB,16gb flash storage,intel hd graphics 400,Chrome OS,1.5kg,5207613.84,1,other,0,Card onboard
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,128gb hdd,intel hd graphics 620,Windows 10,2.3kg,9453822.048,1,1,2,Card onboard
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,512gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,2.73kg,28826145.5328,1,2,0,Card rời
+Dell,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,32GB,512gb ssd +  1tb hdd,nvidia geforce gtx 1070,Windows 10,4.42kg,28826145.5328,1,2,0,Card rời
+HP,Notebook,17.3,1600x900,Intel Core i5 7200U 2.5GHz,8GB,1tb hdd,nvidia geforce 930mx,Windows 10,2.63kg,14581318.752000002,1,1,2,Card rời
+Dell,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8GB,128gb ssd,intel hd graphics 620,Windows 10,2.18kg,11440566.786527999,1,1,1,Card onboard
+HP,Ultrabook,14,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,512gb ssd,intel hd graphics 520,Windows 7,1.54kg,29963808.864000004,1,2,1,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,4GB,256gb ssd,amd radeon r5 m420,Windows 10,2.18kg,11841312.7008,1,2,1,Khác
+HP,2 in 1 Convertible,11.6,Touchscreen 1366x768,Intel Celeron Dual Core N3350 1.1GHz,4GB,32gb flash storage,intel hd graphics 500,Chrome OS,1.4kg,9854407.728,1,other,0,Card onboard
+Asus,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,512gb ssd,nvidia geforce 940m,Windows 10,1.45kg,16440036.3072,1,1,1,Card rời
+HP,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.28kg,36485343.7344,1,1,1,Card onboard
+HP,Ultrabook,14,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,512gb ssd,intel hd graphics 520,Windows 10,1.54kg,23522391.1296,1,2,1,Card onboard
+HP,Notebook,15.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4GB,128gb ssd,intel hd graphics 400,No OS,1.86kg,4791004.7328,1,other,1,Card onboard
+Asus,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,2.1kg,30428488.252800003,1,2,0,Card rời
+Dell,Notebook,17.3,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,1tb hdd,amd radeon r7 m445,Linux,2.83kg,13860264.527999999,1,2,2,Khác
+Lenovo,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,256gb ssd,nvidia geforce gt 940mx,Windows 10,1.96kg,30492581.9616,1,2,1,Card rời
+Asus,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,nvidia geforce gtx 930mx,Windows 10,2.3kg,12610437.206400001,1,2,1,Card rời
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,128gb ssd,intel hd graphics 620,Windows 10,1.9kg,15142138.704,1,1,1,Card onboard
+Asus,Notebook,15.6,1366x768,Intel Pentium Quad Core N4200 1.1GHz,4GB,1tb hdd,intel hd graphics 505,Windows 10,2kg,7194518.8128,1,other,2,Card onboard
+HP,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 7600U 2.8GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.28kg,41003950.204799995,1,2,1,Card onboard
+Dell,Notebook,13.3,Full HD / Touchscreen 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,1tb hdd,intel hd graphics 520,Windows 10,1.62kg,10399204.2528,1,1,2,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2.0GHz,4GB,1tb hdd,intel hd graphics 520,No OS,2.2kg,7514987.3568,1,3,2,Card onboard
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,1tb hdd,intel hd graphics 620,Windows 10,2.3kg,13630488.581952,1,1,2,Card onboard
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7300U 2.6GHz,8GB,256gb ssd,amd radeon r7 m465,Windows 10,1.84kg,21615603.2928,1,1,1,Khác
+Toshiba,Notebook,13.3,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,128gb ssd,intel hd graphics 620,Windows 10,1.05kg,20590103.952000003,1,1,1,Card onboard
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,1tb hdd,nvidia geforce gtx 1050,No OS,2.5kg,16295825.4624,1,1,2,Card rời
+Dell,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i7 7660U 2.5GHz,16GB,512gb ssd,intel iris plus graphics 640,Windows 10,1.29kg,35892476.928,1,2,1,Card onboard
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4GB,500gb hdd,intel hd graphics 520,Windows 10,2.07kg,14581318.752000002,1,1,2,Card onboard
+Toshiba,Ultrabook,13.3,1366x768,Intel Core i5 6200U 2.3GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.2kg,17545652.784,1,1,1,Card onboard
+Lenovo,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.37kg,31245683.04,1,2,1,Card onboard
+Acer,Notebook,14,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.56kg,14453131.3344,1,1,1,Card onboard
+Dell,Workstation,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,1tb hdd,nvidia quadro m620,Windows 10,2.23kg,28489653.5616,1,2,2,Card rời
+Lenovo,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4GB,500gb hdd,intel hd graphics 620,Windows 10,2.38kg,16904715.696000002,1,1,2,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,1tb hdd,amd radeon r5 m430,No OS,2.2kg,7675221.6288,1,3,2,Khác
+Toshiba,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,2.0kg,22240516.9536,1,2,1,Card onboard
+Lenovo,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,4GB,180gb ssd,intel hd graphics 620,Windows 10,1.44kg,11777218.992,1,3,1,Card onboard
+Samsung,Ultrabook,15,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16GB,256gb ssd,nvidia geforce 940mx,Windows 10,1.23kg,29627316.8928,1,2,1,Card rời
+Dell,Ultrabook,12.5,Full HD 1920x1080,Intel Core i7 7600U 2.8GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.6kg,27079591.968,1,2,1,Card onboard
+Asus,Notebook,15.6,1366x768,Intel Pentium Quad Core N4200 1.1GHz,4GB,1tb hdd,intel hd graphics 505,Linux,2kg,6393187.218528001,1,other,2,Card onboard
+Xiaomi,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256gb ssd,nvidia geforce 940mx,Windows 10,1.28kg,14981904.432000002,1,1,1,Card rời
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,128gb ssd +  1tb hdd,nvidia geforce 940mx,Windows 10,2.18kg,14621377.32,1,1,0,Card rời
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,256gb ssd,intel hd graphics 620,Windows 10,2.04kg,13443655.4208,1,1,1,Card onboard
+HP,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,256gb ssd,intel hd graphics 620,Windows 10,1.28kg,27239826.240000002,1,1,1,Card onboard
+HP,2 in 1 Convertible,15.6,Touchscreen 1366x768,Intel Core i5 7200U 2.5GHz,4GB,500gb hdd,intel hd graphics 620,Windows 10,2.3kg,10972842.946560001,1,1,2,Card onboard
+Asus,Notebook,14.1,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4GB,32gb flash storage,intel hd graphics 500,Windows 10,1.65kg,5576152.6656,1,other,0,Card onboard
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,1tb hdd,nvidia geforce 940mx,Windows 10,2.2kg,10719672.7968,1,2,2,Card rời
+Dell,Notebook,15.6,1366x768,Intel Pentium Quad Core N3710 1.6GHz,4GB,500gb hdd,intel hd graphics,Windows 10,2.2kg,5912644.6368,1,other,2,Card onboard
+HP,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,256gb ssd,intel hd graphics 620,Windows 10,1.28kg,28826145.5328,1,1,1,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Core i3 6006U 2.0GHz,4GB,1tb hdd,amd radeon r5 m420x,Linux,2.18kg,7301875.77504,1,3,2,Khác
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,12GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,Windows 10,2.2kg,21950492.92128,1,1,0,Card rời
+Acer,Netbook,11.6,IPS Panel 1366x768,Intel Celeron Dual Core N3060 1.6GHz,4GB,32gb flash storage,intel hd graphics 400,Chrome OS,1.25kg,4758957.8784,1,other,0,Card onboard
+Lenovo,Notebook,17.3,1600x900,AMD A4-Series 7210 2.2GHz,4GB,500gb hdd,amd radeon r3,Windows 10,2.8kg,6072878.9088,2,other,2,Khác
+HP,Notebook,14,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,128gb ssd,intel hd graphics 620,Windows 10,1.95kg,20269635.408,1,1,1,Card onboard
+HP,2 in 1 Convertible,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i7 7500U 2.7GHz,16GB,256gb ssd,intel hd graphics 620,Windows 10,1.42kg,22416774.6528,1,2,1,Card onboard
+Samsung,Ultrabook,15,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.17kg,27223802.8128,1,2,1,Card onboard
+Lenovo,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.32kg,28826145.5328,1,1,1,Card onboard
+MSI,Gaming,17.3,IPS Panel 4K Ultra HD 3840x2160,Intel Core i7 6700HQ 2.6GHz,16GB,512gb ssd +  2tb hdd,nvidia geforce gtx 1060,Windows 10,2.43kg,42446058.6528,1,2,0,Card rời
+Toshiba,Notebook,13.3,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.05kg,23634555.12,1,1,1,Card onboard
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,1tb hdd,nvidia geforce gtx 1050ti,Linux,2.62kg,14885763.868800001,1,2,2,Card rời
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,1tb hdd,nvidia geforce 930mx,Windows 10,2.04kg,14421084.48,1,2,2,Card rời
+Dell,Notebook,15.6,1366x768,Intel Core i3 6006U 2.0GHz,4GB,1tb hdd,amd radeon r5 m420x,Windows 10,2.18kg,9838384.3008,1,3,2,Khác
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7300U 2.6GHz,8GB,500gb hdd,intel hd graphics 620,Windows 10,1.9kg,14981904.432000002,1,1,2,Card onboard
+Dell,2 in 1 Convertible,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i7 7Y75 1.3GHz,8GB,512gb ssd,intel hd graphics 615,Windows 10,1.24kg,32256761.29632,1,2,1,Card onboard
+Asus,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6820HK 2.7GHz,32GB,256gb ssd +  256gb ssd,nvidia geforce gtx 980m,Windows 10,3.58kg,20493963.3888,1,2,1,Card rời
+Dell,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 7Y75 1.3GHz,16GB,256gb ssd,intel hd graphics 615,Windows 10,1.22kg,26422631.452800002,1,2,1,Card onboard
+Lenovo,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb flash storage,intel hd graphics 620,Windows 10,1.13kg,32832002.3328,1,2,0,Card onboard
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,512gb ssd,intel hd graphics 620,Windows 10,1.95kg,31453827.359328,1,1,1,Card onboard
+LG,Ultrabook,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,16GB,512gb ssd,intel hd graphics 620,Windows 10,1.08kg,33633173.6928,1,2,1,Card onboard
+HP,Netbook,12.5,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,512gb ssd,intel hd graphics 620,Windows 10,1.26kg,23762742.537600003,1,2,1,Card onboard
+Acer,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Celeron Dual Core 3205U 1.5GHz,4GB,16gb flash storage,intel hd graphics,Chrome OS,2.20kg,5752410.364800001,1,other,0,Card onboard
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 6300HQ 2.3GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 960m,Windows 10,2.6kg,12642484.0608,1,1,0,Card rời
+LG,Ultrabook,14,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,512gb ssd,intel hd graphics 620,Windows 10,0.98kg,30428488.252800003,1,2,1,Card onboard
+Dell,Notebook,14,Full HD 1920x1080,Intel Core i5 7440HQ 2.8GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.6kg,19308229.776,1,1,1,Card onboard
+HP,Ultrabook,12.5,4K Ultra HD / Touchscreen 3840x2160,Intel Core M 6Y75 1.2GHz,8GB,240gb ssd,intel hd graphics 515,Windows 10,1.09kg,24019117.3728,1,other,1,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,6GB,256gb ssd,nvidia geforce 940mx,Windows 10,2.2kg,12642484.0608,1,2,1,Card rời
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,nvidia geforce 930mx,Windows 10,2.04kg,16327712.082528,1,2,1,Card rời
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,4GB,1tb hdd,intel hd graphics 620,Windows 10,2.4kg,7995690.172800001,1,3,2,Card onboard
+Lenovo,Notebook,13.3,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,128gb ssd,intel hd graphics 620,Windows 10,1.44kg,14116639.363200001,1,1,1,Card onboard
+HP,Notebook,13.3,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.49kg,15382490.112000002,1,1,1,Card onboard
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,Windows 10,2.7kg,25621460.092800003,1,2,0,Card rời
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,Windows 10,2.6kg,21615603.2928,1,2,0,Card rời
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,Windows 10,2.2kg,17944796.355552,1,1,0,Card rời
+Dell,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4GB,1tb hdd,amd radeon r5 m420,Windows 10,2.18kg,10975887.397728002,1,1,2,Khác
+HP,Ultrabook,15.6,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256gb ssd,amd radeon r7 m365x,Windows 10,1.84kg,20782224.844128,1,2,1,Khác
+Lenovo,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,512gb ssd,intel hd graphics 620,Windows 10,1.37kg,29242754.64,1,1,1,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4GB,500gb hdd,intel hd graphics 520,Windows 10,1.95kg,11695499.51328,1,1,2,Card onboard
+Lenovo,Ultrabook,12.5,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.36kg,26438654.88,1,2,1,Card onboard
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,2.31kg,18667292.688,1,1,1,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4GB,1tb hdd,intel hd graphics 620,Windows 10,2.18kg,11345547.863232002,1,1,2,Card onboard
+HP,Notebook,14,1366x768,Intel Core i5 6200U 2.3GHz,4GB,500gb hdd,intel hd graphics 520,Windows 10,1.95kg,18410917.8528,1,1,2,Card onboard
+Lenovo,Notebook,15.6,1366x768,Intel Pentium Quad Core N4200 1.1GHz,4GB,1tb hdd,intel hd graphics 505,Windows 10,2.2kg,4951239.0048,1,other,2,Card onboard
+HP,Ultrabook,12.5,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4GB,500gb hdd,intel hd graphics 520,Windows 10,1.26kg,25300991.5488,1,1,2,Card onboard
+HP,Notebook,15.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4GB,1tb hdd,intel hd graphics 400,No OS,1.86kg,4629168.11808,1,other,2,Card onboard
+Lenovo,2 in 1 Convertible,13.3,IPS Panel Quad HD+ / Touchscreen 3200x1800,Intel Core i7 6560U 2.2GHz,16GB,1tb ssd,intel iris graphics 540,Windows 10,1.3kg,28826145.5328,1,2,1,Card onboard
+Toshiba,Notebook,14,IPS Panel Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4GB,128gb ssd,intel hd graphics 520,Windows 10,1.47kg,17705887.056,1,1,1,Card onboard
+HP,Netbook,12.5,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.26kg,26743099.9968,1,1,1,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Core i3 6006U 2.0GHz,4GB,1tb hdd,intel hd graphics 520,Windows 10,2.18kg,8950686.43392,1,3,2,Card onboard
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,Windows 10,2.2kg,19212089.2128,1,2,0,Card rời
+Dell,Gaming,17.3,2560x1440,Intel Core i7 6820HK 2.7GHz,16GB,512gb ssd +  1tb hdd,nvidia geforce gtx 1080,Windows 10,4.36kg,44192612.217599995,1,2,0,Card rời
+HP,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i5 6300HQ 2.3GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 965m,Windows 10,2.75kg,22416774.6528,1,1,0,Card rời
+Asus,Notebook,17.3,1600x900,Intel Pentium Quad Core N3710 1.6GHz,4GB,1tb hdd,nvidia geforce 920mx,Windows 10,2.8kg,8492416.416000001,1,other,2,Card rời
+Acer,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4GB,500gb hdd,intel hd graphics 620,Windows 10,2.23kg,9918501.4368,1,1,2,Card onboard
+Toshiba,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,2.2kg,17930215.0368,1,1,1,Card onboard
+Lenovo,2 in 1 Convertible,11.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core M m7-6Y75 1.2GHz,8GB,256gb ssd,intel hd graphics 515,Windows 10,1.1kg,20814431.932800002,1,other,1,Card onboard
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,AMD FX 8800P 2.1GHz,16GB,512gb ssd +  1tb hdd,amd radeon r9 m385,Windows 10,2.5kg,16007403.7728,2,other,0,Khác
+Dell,Ultrabook,12.5,Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics,Windows 10,1.36kg,23589689.523840003,1,1,1,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,1tb hdd,nvidia geforce 920mx,No OS,2.2kg,10976047.632000001,1,2,2,Card rời
+Dell,Notebook,17.3,1600x900,Intel Core i3 6006U 2.0GHz,4GB,1tb hdd,amd radeon r7 m445,Windows 10,2.36kg,10559438.524799999,1,3,2,Khác
+Acer,Notebook,14,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4GB,32gb flash storage,intel hd graphics 400,Chrome OS,1.68kg,5592176.092800001,1,other,0,Card onboard
+HP,Workstation,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6820HQ 2.7GHz,8GB,8gb ssd,nvidia quadro m1000m,Windows 10,2.0kg,36036687.7728,1,2,1,Card rời
+Dell,Ultrabook,14,Full HD 1920x1080,Intel Core i7 7600U 2.8GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.36kg,28441583.28,1,2,1,Card onboard
+Toshiba,Notebook,13.3,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256gb ssd,intel hd graphics 520,Windows 7,1.2kg,23394203.712,1,1,1,Card onboard
+Asus,2 in 1 Convertible,12.5,Full HD 1920x1080,Intel Core M M7-6Y75 1.2GHz,8GB,64gb flash storage,intel hd graphics 515,Chrome OS,1.2kg,18571152.1248,1,other,0,Card onboard
+Lenovo,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel Core i7 6600U 2.6GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.7kg,23858722.866528,1,2,1,Card onboard
+Dell,Gaming,17.3,IPS Panel 4K Ultra HD 3840x2160,Intel Core i7 7700HQ 2.8GHz,16GB,512gb ssd +  1tb hdd,nvidia geforce gtx 1070,Windows 10,4.36kg,20814431.932800002,1,2,0,Card rời
+Dell,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i5 7Y54 1.2GHz,8GB,256gb ssd,intel hd graphics 615,Windows 10,1.24kg,30428488.252800003,1,1,1,Card onboard
+HP,2 in 1 Convertible,11.6,Touchscreen 1366x768,Intel Pentium Quad Core N4200 1.1GHz,4GB,256gb ssd,intel hd graphics 505,Windows 10,1.45kg,12418156.08,1,other,1,Card onboard
+Dell,Ultrabook,13.3,Quad HD+ 3200x1800,Intel Core i7 6500U 2.5GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.3kg,20317705.6896,1,2,1,Card onboard
+Acer,2 in 1 Convertible,11.6,IPS Panel Touchscreen 1366x768,Intel Celeron Dual Core N3060 1.6GHz,4GB,32gb flash storage,intel hd graphics 400,Chrome OS,1.25kg,6233113.180799999,1,other,0,Card onboard
+Toshiba,Notebook,13.3,Full HD 1920x1080,Intel Core i5 6300U 2.4GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.2kg,24595960.752,1,1,1,Card onboard
+Lenovo,Ultrabook,12.5,IPS Panel Full HD 1920x1080,Intel Core i5 7300U 2.6GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.36kg,28201231.872,1,1,1,Card onboard
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,12GB,128gb ssd +  1tb hdd,nvidia geforce gtx 950m,Windows 10,2.4kg,16167638.0448,1,1,0,Card rời
+Toshiba,Ultrabook,12.5,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,512gb ssd,intel hd graphics 620,Windows 10,1.1kg,28681934.688,1,2,1,Card onboard
+HP,Notebook,15.6,1366x768,Intel Core i5 7200U 2.50GHz,8GB,1tb hdd,nvidia geforce 930mx,Windows 10,2.04kg,13563831.1248,1,1,2,Card rời
+Dell,Notebook,15.6,1366x768,Intel Core i3 6006U 2.0GHz,4GB,1tb hdd,amd radeon r5 m430,Linux,2.25kg,7460828.172864,1,3,2,Khác
+Dell,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4GB,500gb hdd,intel hd graphics 620,Windows 10,1.9kg,13219327.44,1,1,2,Card onboard
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,4GB,500gb hdd,intel hd graphics 620,Windows 10,2.04kg,10976047.632000001,1,3,2,Card onboard
+Dell,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,32GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,Windows 10,4.42kg,24019117.3728,1,2,0,Card rời
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,6GB,256gb ssd,nvidia geforce 920mx,Windows 10,2.4kg,11136281.904,1,1,1,Card rời
+Dell,2 in 1 Convertible,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i7 7Y75 1.3GHz,16GB,512gb ssd,intel hd graphics 615,Windows 10,1.22kg,30428488.252800003,1,2,1,Card onboard
+Dell,Ultrabook,14,Touchscreen 2560x1440,Intel Core i7 6600U 2.6GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.5kg,31453667.125056,1,2,1,Card onboard
+Dell,Gaming,17.3,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,32GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,Windows 10,4.42kg,44865596.160000004,1,2,0,Card rời
+Toshiba,Notebook,14,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.95kg,18907644.096,1,1,1,Card onboard
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,2.73kg,32846423.417280003,1,2,0,Card rời
+HP,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.70GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce 930mx,Windows 10,2.04kg,15686935.2288,1,1,0,Card rời
+Lenovo,Notebook,14,1366x768,Intel Core i5 6200U 2.3GHz,4GB,508gb hybrid,intel hd graphics 520,Windows 7,1.70kg,16055474.054399999,1,1,0,Card onboard
+Asus,2 in 1 Convertible,15.6,4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 7500U 2.7GHz,16GB,512gb ssd +  2tb hdd,nvidia geforce gtx 950m,Windows 10,2.3kg,28826145.5328,1,2,0,Card rời
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,Windows 10,2.99kg,28024974.1728,1,2,0,Card rời
+Dell,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,12GB,512gb ssd,intel hd graphics 620,Windows 10,2.19kg,20814431.932800002,1,2,1,Card onboard
+Toshiba,Notebook,13.3,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4GB,128gb ssd,intel hd graphics 520,Windows 7,1.2kg,19147995.504,1,1,1,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,AMD A12-Series 9720P 3.6GHz,6GB,256gb ssd,amd radeon 530,Windows 10,2.2kg,8796861.5328,2,other,1,Khác
+Fujitsu,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4GB,256gb ssd,intel hd graphics 520,Windows 10,2.3kg,10399204.2528,1,1,1,Card onboard
+Toshiba,Notebook,14,1366x768,Intel Core i5 6200U 2.3GHz,4GB,500gb hdd,intel hd graphics 520,Windows 10,1.75kg,14661435.888,1,1,2,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4GB,500gb hdd,amd radeon r5 m430,Windows 10,2.25kg,9598032.892800001,1,1,2,Khác
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,1tb hdd,intel hd graphics 620,Windows 10,2.04kg,12914882.3232,1,1,2,Card onboard
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,2.5kg,19051854.9408,1,2,0,Card rời
+Dell,Notebook,15.6,1366x768,Intel Core i7 7500U 2.7GHz,8GB,1tb hdd,amd radeon r7 m445,Windows 10,2.36kg,12001546.972800002,1,2,2,Khác
+Dell,Notebook,14,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,128gb ssd,intel hd graphics 620,Windows 10,1.6kg,17930215.0368,1,1,1,Card onboard
+HP,Netbook,12.5,Full HD 1920x1080,Intel Core M 6Y75 1.2GHz,8GB,512gb ssd,intel hd graphics 515,Windows 10,0.97kg,30572699.0976,1,other,1,Card onboard
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,128gb ssd +  1tb hdd,amd radeon 520,Windows 10,2.1kg,7995690.172800001,1,3,0,Khác
+Lenovo,Notebook,15.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4GB,128gb ssd,intel hd graphics 500,No OS,1.9kg,4336259.868864,1,other,1,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,2.3kg,21615603.2928,1,1,1,Card onboard
+Asus,Notebook,13.3,Quad HD+ 3200x1800,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.4kg,18426941.28,1,1,1,Card onboard
+HP,Ultrabook,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.11kg,21615603.2928,1,2,1,Card onboard
+Acer,Notebook,15.6,1366x768,Intel Pentium Quad Core N4200 1.1GHz,4GB,500gb hdd,intel hd graphics 505,Windows 10,2.4kg,6088902.336000001,1,other,2,Card onboard
+Asus,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,Windows 10,2.5kg,28826145.5328,1,2,0,Card rời
+HP,Ultrabook,14,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,512gb ssd,intel hd graphics 620,Windows 10,1.48kg,33472939.4208,1,2,1,Card onboard
+Acer,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,Windows 10,2.7kg,20189518.272,1,2,0,Card rời
+HP,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.34kg,19051854.9408,1,1,1,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Core i3 7100U 2.4GHz,4GB,128gb ssd,intel hd graphics 620,Windows 10,2.18kg,8764814.6784,1,3,1,Card onboard
+HP,Notebook,14,1366x768,Intel Core i5 7200U 2.5GHz,4GB,500gb hdd,intel hd graphics 620,Windows 10,1.64kg,12482249.788800001,1,1,2,Card onboard
+Toshiba,Notebook,13.3,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4GB,128gb ssd,intel hd graphics 520,Windows 10,1.2kg,19147995.504,1,1,1,Card onboard
+HP,Notebook,14,1366x768,Intel Core i5 6300U 2.4GHz,4GB,256gb ssd,intel hd graphics 520,Windows 10,1.48kg,17625609.685728,1,1,1,Card onboard
+HP,Notebook,14,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,256gb ssd,intel hd graphics 620,Windows 10,1.95kg,19308229.776,1,1,1,Card onboard
+HP,Ultrabook,14,Full HD 1920x1080,Intel Core i7 6600U 2.6GHz,8GB,256gb ssd,intel hd graphics 520,Windows 7,1.43kg,23217946.0128,1,2,1,Card onboard
+HP,Notebook,14,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,nvidia geforce 930mx,Windows 10,1.64kg,16812741.223872002,1,1,1,Card rời
+HP,Notebook,14,1366x768,Intel Core i3 7100U 2.4GHz,4GB,500gb hdd,intel hd graphics 620,Windows 10,1.64kg,10960024.204799999,1,3,2,Card onboard
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,1.0tb hybrid,nvidia geforce gtx 1050,Windows 10,2.65kg,15206232.412800001,1,1,0,Card rời
+HP,Ultrabook,12.5,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,500gb hdd,intel hd graphics 620,Windows 10,1.26kg,24660054.4608,1,1,2,Card onboard
+HP,Notebook,14,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,256gb ssd,intel hd graphics 620,Windows 10,1.48kg,25477249.248,1,1,1,Card onboard
+HP,Ultrabook,14,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.54kg,30239572.046112,1,2,1,Card onboard
+HP,Notebook,13.3,1366x768,Intel Core i3 7100U 2.4GHz,4GB,500gb hdd,intel hd graphics 620,Windows 10,1.49kg,12818741.76,1,3,2,Card onboard
+Toshiba,Notebook,13.3,1366x768,Intel Core i5 6200U 2.3GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.5kg,19388346.912,1,1,1,Card onboard
+HP,Notebook,15.6,1366x768,Intel Core i3 7100U 2.4GHz,4GB,256gb ssd,intel hd graphics 620,Windows 10,2.04kg,12337878.709727999,1,3,1,Card onboard
+Lenovo,Notebook,17.3,IPS Panel 4K Ultra HD 3840x2160,Intel Core i7 6820HQ 2.7GHz,16GB,512gb ssd,nvidia quadro 3000m,Windows 7,2.4kg,17609746.4928,1,2,1,Card rời
+Toshiba,Notebook,14,IPS Panel Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.47kg,23874906.528,1,1,1,Card onboard
+HP,Notebook,14,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.43kg,35716219.2288,1,2,1,Card onboard
+Dell,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i3 6100U 2.3GHz,4GB,1tb hdd,intel hd graphics 520,Windows 10,2.08kg,12754487.816928,1,3,2,Card onboard
+Toshiba,Ultrabook,13.3,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.2kg,25477249.248,1,1,1,Card onboard
+HP,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.11kg,18410917.8528,1,1,1,Card onboard
+HP,Notebook,14,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,nvidia geforce 930mx,Windows 10,1.64kg,18994651.305696003,1,2,1,Card rời
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6300U 2.4GHz,8GB,500gb hdd,intel hd graphics 520,Windows 10,2.09kg,16767555.159168,1,1,2,Card onboard
+HP,Ultrabook,12.5,1366x768,Intel Core i5 7200U 2.5GHz,4GB,256gb ssd,intel hd graphics 620,Windows 10,1.26kg,24980523.004800003,1,1,1,Card onboard
+HP,Notebook,14,1366x768,Intel Core i5 7200U 2.5GHz,4GB,500gb hdd,intel hd graphics 620,Windows 10,2.31kg,19051854.9408,1,1,2,Card onboard
+HP,Notebook,14,1366x768,Intel Core i5 7200U 2.5GHz,4GB,500gb hdd,intel hd graphics 620,Windows 10,1.95kg,16984832.832000002,1,1,2,Card onboard
+Dell,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.29kg,26022045.772800002,1,1,1,Card onboard
+HP,Notebook,17.3,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,nvidia geforce 930mx,Windows 10,2.63kg,17305301.376000002,1,1,1,Card rời
+HP,Notebook,14,1366x768,Intel Core i5 7200U 2.5GHz,4GB,256gb ssd,intel hd graphics 620,Windows 10,1.64kg,15590794.665600002,1,1,1,Card onboard
+Acer,Notebook,15.6,1366x768,AMD A9-Series 9420 3GHz,6GB,1tb hdd,amd radeon r5,Windows 10,2.1kg,6553581.7248,2,other,2,Khác
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,Windows 10,2.7kg,19096720.536960002,1,2,0,Card rời
+HP,Notebook,14,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256gb ssd,intel hd graphics 520,Windows 7,1.95kg,19147995.504,1,1,1,Card onboard
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.84kg,19692631.794528,1,2,1,Card onboard
+HP,Ultrabook,12.5,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.26kg,21615603.2928,1,2,1,Card onboard
+HP,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4GB,500gb hdd,intel hd graphics 620,Windows 10,2.04kg,11889382.9824,1,1,2,Card onboard
+Toshiba,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel Core i7 6600U 2.6GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.47kg,27640411.92,1,2,1,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6300U 2.4GHz,8GB,256gb ssd,intel hd graphics 520,Windows 7,2.09kg,17032101.94224,1,1,1,Card onboard
+HP,Notebook,14,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.64kg,16191833.419872,1,1,1,Card onboard
+Lenovo,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.5GHz,4GB,256gb ssd,intel hd graphics 520,Windows 10,1.8kg,13571842.8384,1,2,1,Card onboard
+Vero,Notebook,14,1366x768,Intel Atom X5-Z8350 1.44GHz,2GB,32gb flash storage,intel hd graphics 400,Windows 10,1.45kg,3377738.4537600004,1,other,0,Card onboard
+Toshiba,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,16GB,256gb ssd,nvidia geforce 930m,Windows 10,2.4kg,22833383.76,1,2,1,Card rời
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,2.3kg,16818189.189120002,1,1,1,Card onboard
+HP,Notebook,14,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4GB,500gb hdd,intel hd graphics 520,Windows 10,1.54kg,16023427.200000001,1,1,2,Card onboard
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6300U 2.4GHz,8GB,256gb ssd +  500gb hdd,intel hd graphics 520,Windows 10,1.84kg,33702715.366848,1,1,0,Card onboard
+HP,Notebook,14,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256gb ssd,intel hd graphics 520,Windows 7,1.43kg,23538414.556800004,1,1,1,Card onboard
+MSI,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6820HK 2.7GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 980m,Windows 10,3.78kg,24766450.017408002,1,2,0,Card rời
+Lenovo,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,128gb ssd +  1tb hdd,nvidia geforce gtx 980m,Windows 10,4.6kg,36693488.053728,1,2,0,Card rời
+Asus,Netbook,11.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4GB,16gb flash storage,intel hd graphics 400,Chrome OS,1.2kg,4613144.69088,1,other,0,Card onboard
+Lenovo,Notebook,14,IPS Panel 2560x1440,Intel Core i7 6600U 2.6GHz,16GB,256gb ssd,intel hd graphics 520,Windows 7,1.1kg,41981379.264000006,1,2,1,Card onboard
+HP,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,1tb hdd,nvidia geforce 940mx,Windows 10,1.91kg,15686935.2288,1,2,2,Card rời
+Dell,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,2.3kg,17529629.3568,1,1,1,Card onboard
+HP,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4GB,256gb ssd,intel hd graphics 620,Windows 10,2.04kg,15686935.2288,1,1,1,Card onboard
+Dell,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i7 7500U 2.7GHz,16GB,1tb ssd,intel hd graphics 620,Windows 10,1.2kg,36116804.9088,1,2,1,Card onboard
+HP,Notebook,15.6,1366x768,Intel Core i3 6100U 2.3GHz,4GB,500gb hdd,intel hd graphics 520,Windows 10,2.31kg,11298919.69008,1,3,2,Card onboard
+HP,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4GB,500gb hdd,intel hd graphics 620,No OS,1.96kg,7995690.172800001,1,1,2,Card onboard
+Acer,Notebook,15.6,1366x768,AMD A8-Series 7410 2.2GHz,8GB,1tb hdd,amd radeon r5,Windows 10,2.4kg,7194518.8128,2,other,2,Khác
+Dell,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,12GB,256gb ssd,intel hd graphics 620,Windows 10,1.6kg,20814431.932800002,1,2,1,Card onboard
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,2.94kg,29146614.076800004,1,2,0,Card rời
+Asus,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,1tb hdd,nvidia geforce gtx 965m,No OS,4kg,15991380.345600002,1,2,2,Card rời
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,1tb hdd,intel hd graphics,Windows 10,2.25kg,8957095.8048,1,1,2,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16GB,2tb hdd,amd radeon r7 m445,Windows 10,2.32kg,15863032.693728002,1,2,2,Khác
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,1.8kg,30909191.0688,1,2,0,Card rời
+Dell,Ultrabook,13.3,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.29kg,23362156.857600003,1,2,1,Card onboard
+Asus,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6820HK 2.7GHz,64GB,1tb ssd,nvidia geforce gtx 980,Windows 10,3.58kg,20814431.932800002,1,2,1,Card rời
+Dell,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.62kg,12786855.139872001,1,2,1,Card onboard
+Dell,Gaming,15.6,4K Ultra HD 3840x2160,Intel Core i7 6700HQ 2.6GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 970m,Windows 10,3.21kg,21295134.7488,1,2,0,Card rời
+Apple,Ultrabook,12,IPS Panel Retina Display 2304x1440,Intel Core M 1.1GHz,8GB,256gb flash storage,intel hd graphics 515,Mac OS X,0.920kg,20830455.36,1,other,0,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Core i3 6100U 2.3GHz,4GB,500gb hdd,intel hd graphics 520,Windows 10,2.06kg,7722971.441856001,1,3,2,Card onboard
+HP,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4GB,500gb hdd,intel hd graphics 520,Windows 10,2.31kg,19212089.2128,1,1,2,Card onboard
+HP,Ultrabook,12.5,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256gb ssd,intel hd graphics 520,Windows 7,1.26kg,19212089.2128,1,1,1,Card onboard
+HP,Notebook,13.3,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.49kg,17465535.648,1,2,1,Card onboard
+Lenovo,Ultrabook,12.5,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.3kg,27455982.272928,1,2,1,Card onboard
+Lenovo,Notebook,17.3,1600x900,Intel Core i5 6200U 2.3GHz,8GB,1.0tb hdd,amd radeon r5 m330,Windows 10,3.0kg,10559438.524799999,1,1,2,Khác
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 6300HQ 2.3GHz,4GB,1tb hdd,nvidia geforce gtx 950m,Windows 10,2.3kg,15654888.3744,1,1,2,Card rời
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,Windows 10,3.78kg,40042544.5728,1,2,0,Card rời
+Lenovo,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4GB,500gb hdd,intel hd graphics 520,Windows 10,2.1kg,8652650.688000001,1,1,2,Card onboard
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4GB,500gb hdd,intel hd graphics 520,Windows 7,2.31kg,15062021.568,1,1,2,Card onboard
+Lenovo,Ultrabook,12.5,IPS Panel Touchscreen 2560x1440,Intel Core M 6Y75 1.2GHz,8GB,512gb ssd,intel hd graphics 515,Windows 10,0.99kg,22416774.6528,1,other,1,Card onboard
+Lenovo,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6820HK 2.7GHz,32GB,512gb ssd +  1.0tb hybrid,nvidia geforce gtx 980m,Windows 10,4.6kg,17609746.4928,1,2,1,Card rời
+Lenovo,2 in 1 Convertible,10.1,IPS Panel Touchscreen 1920x1200,Intel Atom x5-Z8550 1.44GHz,4GB,64gb flash storage,intel hd graphics 400,Windows 10,0.69kg,10355460.296544,1,other,0,Card onboard
+HP,Ultrabook,13.3,IPS Panel 4K Ultra HD 3840x2160,Intel Core i7 7500U 2.7GHz,16GB,512gb ssd,intel hd graphics 620,Windows 10,1.3kg,32832002.3328,1,2,1,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,2.18kg,12017570.4,1,1,1,Card onboard
+HP,Notebook,14,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4GB,500gb hdd,intel hd graphics 520,Windows 7,1.54kg,16519993.208928,1,1,2,Card onboard
+HP,Workstation,15.6,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256gb ssd,amd firepro w4190m,Windows 7,1.9kg,23955023.664,1,2,1,Khác
+Lenovo,Notebook,14,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,180gb ssd,intel hd graphics 520,Windows 7,1.7kg,19212089.2128,1,1,1,Card onboard
+HP,Notebook,13.3,Quad HD+ 3200x1800,Intel Pentium Dual Core 4405Y 1.5GHz,4GB,32gb flash storage,intel hd graphics 515,Chrome OS,1.29kg,9854407.728,1,other,0,Card onboard
+Acer,Notebook,15.6,1366x768,AMD A8-Series 7410 2.2GHz,4GB,500gb hdd,amd radeon r5,Windows 10,2.4kg,6201066.326400001,2,other,2,Khác
+Dell,Notebook,15.6,1366x768,Intel Pentium Quad Core N3700 1.6GHz,4GB,500gb hdd,intel hd graphics,Linux,2.2kg,6305058.368928,1,other,2,Card onboard
+HP,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4GB,1tb hdd,intel hd graphics 520,No OS,1.86kg,5543945.576928,1,3,2,Card onboard
+Asus,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,2.7kg,25621460.092800003,1,2,0,Card rời
+Dell,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4GB,256gb ssd,amd radeon 530,Windows 10,1.4kg,13112771.649120001,1,1,1,Khác
+HP,Netbook,12.5,1366x768,Intel Core i5 6200U 2.3GHz,4GB,128gb ssd,intel hd graphics 520,Windows 7,2.4kg,25621460.092800003,1,1,1,Card onboard
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd +  1tb hdd,nvidia geforce gtx 950m,Windows 10,2.4kg,12802718.3328,1,1,0,Card rời
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,1tb hdd,amd radeon r7 m445,Windows 10,2.36kg,10235765.29536,1,1,2,Khác
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,256gb ssd,nvidia geforce gtx 965m,Windows 10,2.6kg,25621460.092800003,1,2,1,Card rời
+HP,Notebook,15.6,1366x768,Intel Pentium Quad Core N3710 1.6GHz,4GB,1tb hdd,intel hd graphics 405,Windows 10,1.96kg,8011713.600000001,1,other,2,Card onboard
+Asus,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,128gb ssd +  1tb hdd,nvidia geforce gtx 980m,Windows 10,4.3kg,36837859.1328,1,2,0,Card rời
+Dell,Ultrabook,12.5,1366x768,Intel Core i3 6100U 2.3GHz,4GB,500gb hdd,intel hd graphics 520,Windows 7,1.5kg,18188993.38608,1,3,2,Card onboard
+Dell,Ultrabook,12.5,1366x768,Intel Core i3 6100U 2.3GHz,4GB,128gb ssd,intel hd graphics 520,Windows 7,1.5kg,18698858.839584,1,3,1,Card onboard
+Acer,Notebook,15.6,1366x768,Intel Celeron Dual Core 3205U 1.5GHz,4GB,16gb ssd,intel hd graphics,Chrome OS,2.20kg,3348896.2848,1,other,1,Card onboard
+HP,Workstation,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,1tb hdd,amd firepro w6150m,Windows 7,3.0kg,28826145.5328,1,2,2,Khác
+Lenovo,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,512gb ssd,nvidia geforce gtx 1050 ti,Windows 10,2.4kg,19212089.2128,1,2,1,Card rời
+Dell,Ultrabook,12.5,1366x768,Intel Core i5 6200U 2.3GHz,8GB,256gb ssd,intel hd graphics 520,Windows 7,1.5kg,22642704.97632,1,1,1,Card onboard
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 960m,Windows 10,2.9kg,24214442.950368002,1,2,0,Card rời
+Lenovo,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 6200U 2.3GHz,4GB,256gb ssd,intel hd graphics 520,Windows 10,2.1kg,13892311.3824,1,1,1,Card onboard
+HP,Notebook,15.6,Full HD 1920x1080,AMD A6-Series 9220 2.5GHz,4GB,1tb hdd,amd radeon r4,Windows 10,2.1kg,6377324.025599999,2,other,2,Khác
+Asus,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,128gb ssd +  1tb hdd,nvidia geforce gtx 960m,Windows 10,2.59kg,21455369.020800002,1,2,0,Card rời
+HP,Notebook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core M 6Y54 1.1GHz,8GB,256gb ssd,intel hd graphics 515,Windows 10,1.16kg,27223802.8128,1,other,1,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4GB,500gb hdd,amd radeon r5 m315,Windows 7,2.24kg,12324419.03088,1,1,2,Khác
+Lenovo,Notebook,15.6,1366x768,Intel Core i3 6006U 2.0GHz,4GB,128gb ssd,intel hd graphics 520,Windows 10,2.1kg,6874050.2688,1,3,1,Card onboard
+HP,Ultrabook,13.3,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,512gb ssd,intel hd graphics 520,Windows 10,1.16kg,31550128.1568,1,2,1,Card onboard
+Lenovo,2 in 1 Convertible,10.1,IPS Panel Touchscreen 1920x1200,Intel Atom x5-Z8550 1.44GHz,4GB,64gb flash storage,intel hd graphics 400,Android,0.69kg,8796861.5328,1,other,0,Card onboard
+Dell,Ultrabook,13.3,Full HD 1920x1080,Intel Core i7 7560U 2.4GHz,8GB,256gb ssd,intel iris plus graphics 640,Windows 10,1.23kg,22096306.108799998,1,2,1,Card onboard
+Lenovo,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6820HK 2.7GHz,16GB,256gb ssd +  1.0tb hybrid,nvidia geforce gtx 980m,Windows 10,4.6kg,44064264.56572801,1,2,1,Card rời
+Razer,Ultrabook,12.5,Touchscreen / 4K Ultra HD 3840x2160,Intel Core i7 6500U 2.5GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.25kg,16488106.588800002,1,2,1,Card onboard
+Toshiba,Ultrabook,13.3,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16GB,512gb ssd,intel hd graphics 620,Windows 10,1.05kg,35668148.9472,1,2,1,Card onboard
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 960m,Windows 10,3.52kg,21030587.965728,1,2,0,Card rời
+Vero,Notebook,13.3,Full HD 1920x1080,Intel Atom X5-Z8350 1.44GHz,4GB,32gb flash storage,intel hd graphics 400,Windows 10,1.35kg,3140591.7312,1,other,0,Card onboard
+HP,Notebook,13.3,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.16kg,27079591.968,1,1,1,Card onboard
+HP,Notebook,14,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256gb ssd,intel hd graphics 520,Windows 7,1.43kg,24243445.3536,1,1,1,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4GB,500gb hdd,intel hd graphics 520,Linux,2.09kg,8390347.184736,1,1,2,Card onboard
+Asus,Notebook,15.6,1366x768,Intel Core i3 7100U 2.4GHz,4GB,1tb hdd,intel hd graphics 620,Windows 10,2kg,6970190.832,1,3,2,Card onboard
+Lenovo,2 in 1 Convertible,14,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.8kg,26743099.9968,1,2,1,Card onboard
+Lenovo,2 in 1 Convertible,10.1,IPS Panel Touchscreen 1920x1200,Intel Atom x5-Z8550 1.44GHz,4GB,64gb flash storage,intel hd graphics 400,Windows 10,0.69kg,7675221.6288,1,other,0,Card onboard
+HP,Ultrabook,12.5,1366x768,Intel Core i5 6300U 2.4GHz,8GB,256gb ssd,intel hd graphics 520,Windows 7,1.26kg,30364394.544000003,1,1,1,Card onboard
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,No OS,2.4kg,15847169.5008,1,1,0,Card rời
+HP,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i5 6300HQ 2.3GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,3.35kg,18090449.3088,1,1,0,Card rời
+HP,Notebook,15.6,1366x768,Intel Core i7 7500U 2.7GHz,8GB,2tb hdd,intel hd graphics 620,Windows 10,2.04kg,10078735.708800001,1,2,2,Card onboard
+Lenovo,2 in 1 Convertible,14,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6600U 2.6GHz,8GB,512gb ssd,nvidia quadro m500m,Windows 7,1.8kg,32854114.662336003,1,2,1,Card rời
+Asus,Notebook,14,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4GB,32gb flash storage,intel hd graphics 500,Windows 10,1.5kg,4454512.7616,1,other,0,Card onboard
+HP,Ultrabook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.84kg,12049617.2544,1,2,1,Card onboard
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,1tb hdd,nvidia geforce 940mx,Windows 10,2.23kg,9870431.1552,1,1,2,Card rời
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,16GB,1.0tb hybrid,amd radeon r7 m360,Windows 10,2.5kg,17609746.4928,1,2,0,Khác
+HP,Workstation,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,256gb ssd,nvidia quadro m3000m,Windows 7,3kg,28826145.5328,1,2,1,Card rời
+Dell,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8GB,1tb hdd,amd radeon r7 m445,Windows 10,2.5kg,12562366.9248,1,1,2,Khác
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 6820HQ 2.7GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 980m,Windows 10,3.78kg,38440201.852800004,1,2,0,Card rời
+HP,Ultrabook,15.6,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256gb ssd,intel hd graphics 520,Windows 7,1.88kg,34798397.318784,1,2,1,Card onboard
+Lenovo,2 in 1 Convertible,14,IPS Panel Touchscreen 2560x1440,Intel Core i7 6600U 2.6GHz,16GB,512gb ssd,intel hd graphics 520,Windows 10,2.8kg,39097162.368,1,2,1,Card onboard
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,Windows 10,2.4kg,18311572.60416,1,2,0,Card rời
+HP,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i5 6300U 2.4GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.48kg,26102162.9088,1,1,1,Card onboard
+HP,Workstation,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,256gb ssd,nvidia quadro m1000m,Windows 7,2.59kg,35716219.2288,1,2,1,Card rời
+HP,2 in 1 Convertible,13.3,Touchscreen 2560x1440,Intel Core i7 6600U 2.6GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.48kg,28826145.5328,1,2,1,Card onboard
+HP,Workstation,15.6,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,256gb ssd,nvidia quadro m1000m,Windows 7,2.0kg,30428488.252800003,1,2,1,Card rời
+HP,Ultrabook,12.5,Full HD 1920x1080,Intel Core i7 6500U 2.50GHz,8GB,256gb ssd,intel hd graphics 520,Windows 7,1.26kg,36805011.10704,1,2,1,Card onboard
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,nvidia geforce 940mx,Windows 10,2.18kg,16182059.12928,1,2,1,Card rời
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256gb ssd,intel hd graphics 520,Windows 7,1.88kg,25300991.5488,1,1,1,Card onboard
+Lenovo,2 in 1 Convertible,14,IPS Panel Touchscreen 2560x1440,Intel Core i7 6500U 2.5GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.27kg,37478796.2208,1,2,1,Card onboard
+Lenovo,Notebook,15.6,1366x768,Intel Core i3 6006U 2.0GHz,4GB,1tb hdd,intel hd graphics 520,No OS,1.9kg,5431941.8208,1,3,2,Card onboard
+HP,Notebook,15.6,1366x768,AMD E-Series 7110 1.8GHz,4GB,500gb hdd,amd radeon r2 graphics,Windows 10,1.86kg,4758957.8784,2,other,2,Khác
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,1tb hdd,amd radeon r5 m330,No OS,2.32kg,9598032.892800001,1,1,2,Khác
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,1tb hdd,nvidia geforce gtx 1050ti,Windows 10,2.62kg,19212089.2128,1,2,2,Card rời
+Dell,Notebook,15.6,IPS Panel Touchscreen / 4K Ultra HD 3840x2160,Intel Core i5 6300HQ 2.3GHz,8GB,256gb ssd,nvidia geforce 960m,Windows 10,2.04kg,36063607.130496,1,1,1,Card rời
+HP,Notebook,15.6,Full HD 1920x1080,AMD A6-Series A6-9220 2.5GHz,4GB,256gb ssd,amd radeon 520,Windows 10,1.91kg,7673459.051808001,2,other,1,Khác
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,Windows 10,2.7kg,23919772.124160003,1,2,0,Card rời
+Lenovo,Ultrabook,14,Full HD 1920x1080,Intel Core i7 6600U 2.6GHz,12GB,512gb ssd,intel hd graphics 520,Windows 7,1.4kg,36837859.1328,1,2,1,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,1.0tb hybrid,amd radeon r5 m330,Windows 10,2.5kg,12634312.112928,1,1,0,Khác
+HP,2 in 1 Convertible,13.3,Touchscreen 2560x1440,Intel Core i7 6600U 2.6GHz,8GB,512gb ssd,intel hd graphics 520,Windows 10,1.48kg,32703814.9152,1,2,1,Card onboard
+Lenovo,Ultrabook,14,Full HD 1920x1080,Intel Core i7 6600U 2.6GHz,8GB,256gb ssd,intel hd graphics 520,Windows 7,1.7kg,24019117.3728,1,2,1,Card onboard
+MSI,Gaming,14,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 970m,Windows 10,1.7kg,28345442.716800004,1,2,0,Card rời
+HP,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,1tb hdd,nvidia geforce gtx 1050,Windows 10,2.62kg,14405061.052800002,1,2,2,Card rời
+Lenovo,Notebook,15.6,1366x768,Intel Core i3 6006U 2.0GHz,8GB,1tb hdd,intel hd graphics 520,Windows 10,2.2kg,7354753.0848,1,3,2,Card onboard
+HP,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4GB,500gb hdd,intel hd graphics 520,No OS,2.1kg,7643014.540128,1,1,2,Card onboard
+Dell,Gaming,15.6,4K Ultra HD 3840x2160,Intel Core i7 7700HQ 2.8GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050 ti,Windows 10,2.62kg,24003093.945600003,1,2,0,Card rời
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.95kg,22272563.808,1,1,1,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,1tb hdd,nvidia geforce 920mx,Windows 10,2.2kg,7498963.9296,1,3,2,Card rời
+HP,Notebook,14,1366x768,Intel Celeron Dual Core N3060 1.6GHz,2GB,32gb flash storage,intel hd graphics 400,Windows 10,1.44kg,3989833.3728,1,other,0,Card onboard
+MSI,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,1tb hdd,nvidia geforce gtx 1050,Windows 10,2.2kg,13443655.4208,1,2,2,Card rời
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.96kg,10879907.0688,1,2,1,Card onboard
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16GB,512gb ssd,intel uhd graphics 620,Windows 10,2.1kg,18571152.1248,1,2,1,Card onboard
+Asus,Notebook,15.6,1366x768,Intel Celeron Dual Core N3050 1.6GHz,4GB,500gb hdd,intel hd graphics,Windows 10,2.2kg,5912644.6368,1,other,2,Card onboard
+Lenovo,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4GB,500gb hdd,intel hd graphics 520,No OS,2.1kg,6377324.025599999,1,1,2,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,1tb hdd,nvidia geforce 940mx,No OS,2.2kg,11360609.8848,1,2,2,Card rời
+Asus,Notebook,14,Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,4GB,256gb ssd,intel hd graphics 620,Windows 10,2kg,12322015.5168,1,3,1,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,4GB,1.0tb hybrid,intel hd graphics 520,Windows 7,2.32kg,13219327.44,1,2,0,Card onboard
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,512gb ssd,nvidia geforce gtx 960,Windows 10,3.31kg,20910572.496,1,2,1,Card rời
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,128gb ssd +  1tb hdd,nvidia geforce gtx 970m,Windows 10,1.91kg,34504367.429664,1,2,0,Card rời
+HP,Notebook,15.6,1366x768,Intel Core i3 6100U 2.3GHz,4GB,500gb hdd,intel hd graphics 520,Windows 10,2.07kg,10415227.68,1,3,2,Card onboard
+Lenovo,2 in 1 Convertible,14,IPS Panel Touchscreen 2560x1440,Intel Core i5 6200U 2.3GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.36kg,26230350.3264,1,1,1,Card onboard
+Lenovo,Ultrabook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,6GB,256gb ssd,nvidia geforce 920m,Windows 10,1.54kg,13315468.0032,1,2,1,Card rời
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,nvidia geforce gt 940mx,Linux,1.98kg,14341127.578272,1,2,1,Card rời
+Acer,Notebook,15.6,1366x768,Intel Celeron Dual Core N3350 2GHz,4GB,500gb hdd,intel hd graphics 500,Windows 10,2.1kg,5335801.257600001,1,other,2,Card onboard
+HP,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,6GB,1tb hdd,nvidia geforce gtx 960m,Windows 10,2.18kg,12802718.3328,1,2,2,Card rời
+Asus,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,256gb ssd +  1tb hdd,nvidia geforce gtx 960m,Windows 10,2.591kg,14565295.3248,1,2,0,Card rời
+Dell,2 in 1 Convertible,15.6,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,16GB,512gb ssd,intel hd graphics 620,Windows 10,2.09kg,18891620.6688,1,2,1,Card onboard
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4GB,256gb ssd,nvidia geforce 940mx,Windows 10,2.23kg,11072188.195200002,1,1,1,Card rời
+Dell,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i5 6300U 2.4GHz,8GB,256gb ssd,intel hd graphics 520,Linux,1.23kg,17609746.4928,1,1,1,Card onboard
+Acer,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,Windows 10,4.2kg,41644887.2928,1,2,0,Card rời
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8GB,1tb hdd,nvidia geforce gtx 1050,Windows 10,2.4kg,13123186.8768,1,1,2,Card rời
+Samsung,2 in 1 Convertible,12.3,IPS Panel Touchscreen 2400x1600,Samsung Cortex A72&A53 2.0GHz,4GB,32gb flash storage,arm mali t860 mp4,Chrome OS,1.15kg,10559438.524799999,0,other,0,Khác
+HP,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4GB,500gb hdd,intel hd graphics 620,Windows 10,1.86kg,7771362.192,1,1,2,Card onboard
+Apple,Ultrabook,12,IPS Panel Retina Display 2304x1440,Intel Core M 1.1GHz,8GB,256gb flash storage,intel hd graphics 5300,Mac OS X,0.920kg,18635245.8336,1,other,0,Card onboard
+Dell,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.6kg,19212089.2128,1,1,1,Card onboard
+HP,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,12GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,Windows 10,2.21kg,21263087.8944,1,2,0,Card rời
+Lenovo,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4GB,1tb hdd,amd radeon r5 m430,No OS,1.9kg,5896621.209600001,1,3,2,Khác
+Asus,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,512gb ssd +  1tb hdd,nvidia geforce gtx 980m,Windows 10,4.3kg,34450368.480000004,1,2,0,Card rời
+Acer,Notebook,15.6,1366x768,Intel Celeron Dual Core N3350 2GHz,4GB,1tb hdd,intel hd graphics 500,Linux,2.1kg,4358372.1984,1,other,2,Card onboard
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,2.43kg,32830399.990080003,1,2,0,Card rời
+Dell,Notebook,15.6,1366x768,Intel Core i3 6006U 2.0GHz,4GB,128gb ssd,amd radeon r7 m440,Windows 10,2.3kg,7995690.172800001,1,3,1,Khác
+Lenovo,Notebook,15.6,1366x768,Intel Core i7 6500U 2.5GHz,8GB,500gb hdd,nvidia geforce 920mx,No OS,2.2kg,10078735.708800001,1,2,2,Card rời
+Dell,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i7 7500U 2.7GHz,16GB,512gb ssd,intel hd graphics 620,Windows 10,1.2kg,42942784.896,1,2,1,Card onboard
+Asus,Gaming,15.6,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,1tb hdd,nvidia geforce gtx 1060,Windows 10,2.2kg,18731386.3968,1,2,2,Card rời
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,amd radeon r7 m445,Windows 10,2.36kg,14244826.7808,1,1,1,Khác
+HP,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.91kg,9277564.3488,1,1,1,Card onboard
+Lenovo,Notebook,15.6,1366x768,AMD E-Series 9000 2.2GHz,4GB,500gb hdd,amd radeon r2 graphics,Windows 10,2.2kg,4791004.7328,2,other,2,Khác
+Acer,Notebook,17.3,1600x900,Intel Core i3 6006U 2.0GHz,8GB,1tb hdd,nvidia geforce 940mx,Windows 10,3.3kg,10078735.708800001,1,3,2,Card rời
+Asus,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,Windows 10,2.2kg,39241373.2128,1,2,0,Card rời
+Apple,Ultrabook,12,IPS Panel Retina Display 2304x1440,Intel Core M 1.2GHz,8GB,512gb flash storage,intel hd graphics 515,Mac OS X,0.920kg,20493963.3888,1,other,0,Card onboard
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,2.2kg,28024974.1728,1,2,0,Card rời
+MSI,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,2.43kg,31229499.378528003,1,2,0,Card rời
+Dell,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,2.191kg,16007403.7728,1,1,1,Card onboard
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,2.9kg,31229659.612800002,1,2,0,Card rời
+Acer,Netbook,11.6,1366x768,Intel Celeron Dual Core 3205U 1.5GHz,2GB,32gb ssd,intel hd graphics,Chrome OS,1.3kg,2788076.3328,1,other,1,Card onboard
+Acer,Notebook,17.3,1600x900,Intel Core i3 6006U 2GHz,4GB,1tb hdd,nvidia geforce 940mx,Windows 10,3.3kg,9582009.4656,1,3,2,Card rời
+Lenovo,Notebook,17.3,1600x900,Intel Core i5 7200U 2.5GHz,8GB,1tb hdd,intel hd graphics 620,No OS,2.8kg,8636627.2608,1,1,2,Card onboard
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 960<u+039c>,Windows 10,2.6kg,20381799.3984,1,2,0,Card rời
+Acer,2 in 1 Convertible,14,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7Y75 1.3GHz,8GB,256gb ssd,intel hd graphics 615,Windows 10,1.2kg,18410917.8528,1,2,1,Card onboard
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6600U 2.6GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,2.3kg,24499820.1888,1,2,1,Card onboard
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,2.2kg,23652341.124192,1,2,0,Card rời
+HP,Notebook,15.6,Full HD 1920x1080,AMD A12-Series 9720P 2.7GHz,6GB,1tb hdd,amd radeon 530,Windows 10,2.1kg,8476392.9888,2,other,2,Khác
+Dell,Ultrabook,12.5,Full HD / Touchscreen 1920x1080,Intel Core i5 6300U 2.4GHz,8GB,256gb ssd,intel hd graphics 520,Windows 7,1.26kg,27454059.461664002,1,1,1,Card onboard
+Dell,2 in 1 Convertible,15,Full HD / Touchscreen 1920x1080,Intel Core i3 7100U 2.4GHz,4GB,500gb hdd,intel hd graphics 620,Windows 10,2.08kg,8155924.444800001,1,3,2,Card onboard
+Asus,Notebook,15.6,1366x768,Intel Pentium Quad Core N3710 1.6GHz,4GB,1tb hdd,intel hd graphics 405,Windows 10,2.65kg,4951239.0048,1,other,2,Card onboard
+Dell,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i7 7500U 2.7GHz,8GB,256gb ssd,intel hd graphics 620,Windows 10,1.29kg,23666601.9744,1,2,1,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4GB,1tb hdd,intel hd graphics 520,Linux,2.18kg,8361985.718592,1,1,2,Card onboard
+Lenovo,Gaming,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,128gb ssd +  1tb hdd,nvidia geforce gtx 960m,Windows 10,2.6kg,16488106.588800002,1,2,0,Card rời
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 1050,Windows 10,2.2kg,18410917.8528,1,2,0,Card rời
+Lenovo,Netbook,12.5,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.50GHz,16GB,512gb ssd,intel hd graphics 520,Windows 10,1.3kg,26438654.88,1,2,1,Card onboard
+Razer,Gaming,14,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,1tb ssd,nvidia geforce gtx 1060,Windows 10,1.95kg,28826145.5328,1,2,1,Card rời
+Dell,Notebook,15.6,Touchscreen 1366x768,Intel Core i3 7100U 2.4GHz,8GB,1tb hdd,intel hd graphics 620,Windows 10,2.3kg,7515147.591072001,1,3,2,Card onboard
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1060,Windows 10,2.7kg,25605436.6656,1,2,0,Card rời
+Apple,Ultrabook,11.6,1366x768,Intel Core i5 1.6GHz,4GB,256gb flash storage,intel hd graphics 6000,Mac OS X,1.08kg,15366466.684799999,1,1,0,Card onboard
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4GB,1tb hdd,intel hd graphics 520,Windows 10,2.1kg,7659198.2016,1,3,2,Card onboard
+HP,Ultrabook,14,2560x1440,Intel Core i7 6500U 2.5GHz,8GB,256gb ssd,intel hd graphics 520,Windows 7,1.54kg,35222537.436768,1,2,1,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4GB,500gb hdd,intel hd graphics 520,Windows 7,2.24kg,11809265.8464,1,1,2,Card onboard
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 960m,Windows 10,2.3kg,18731386.3968,1,2,0,Card rời
+Lenovo,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16GB,512gb ssd,intel hd graphics 620,Windows 10,1.4kg,24019117.3728,1,2,1,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,AMD A12-Series 9720P 3.6GHz,6GB,256gb ssd,amd radeon 530,Windows 10,2.2kg,9575119.391904,2,other,1,Khác
+Asus,Ultrabook,13.3,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.45kg,20509986.816,1,2,1,Card onboard
+Acer,Notebook,15.6,1366x768,Intel Core i3 6006U 2.0GHz,4GB,500gb hdd,intel hd graphics 520,Linux,2.4kg,5797275.960960001,1,3,2,Card onboard
+Dell,2 in 1 Convertible,17.3,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,16GB,512gb ssd,nvidia geforce 940mx,Windows 10,2.77kg,28826145.5328,1,2,1,Card rời
+HP,Notebook,14,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4GB,256gb ssd,intel hd graphics 520,Windows 7,1.54kg,17625609.685728,1,1,1,Card onboard
+Dell,Notebook,14,1366x768,Intel Core i5 7200U 2.5GHz,4GB,500gb hdd,intel hd graphics 620,Windows 10,1.6kg,14020498.8,1,1,2,Card onboard
+Asus,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,256gb ssd +  1tb hdd,nvidia geforce gtx 1070,Windows 10,2.34kg,37254468.24,1,2,0,Card rời
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8GB,256gb ssd,intel hd graphics 620,No OS,2.3kg,9181423.7856,1,1,1,Card onboard
+Dell,2 in 1 Convertible,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i5 7Y54 1.2GHz,8GB,256gb ssd,intel hd graphics 615,Windows 10,1.24kg,29050473.5136,1,1,1,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Pentium Quad Core N3710 1.6GHz,4GB,500gb hdd,intel hd graphics,Linux,2.2kg,5191590.4128,1,other,2,Card onboard
+HP,Notebook,15.6,1366x768,AMD A6-Series 9220 2.5GHz,4GB,500gb hdd,amd radeon r4 graphics,Windows 10,1.86kg,6393347.4528,2,other,2,Khác
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6100U 2.3GHz,6GB,128gb ssd,nvidia geforce 920mx,Windows 10,2.4kg,9117330.0768,1,3,1,Card rời
+Lenovo,Notebook,14,IPS Panel Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8GB,256gb ssd,intel hd graphics 520,Windows 10,1.9kg,17177113.9584,1,1,1,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Pentium Quad Core N3700 1.6GHz,4GB,500gb hdd,intel hd graphics,Windows 10,2.2kg,7114241.442528,1,other,2,Card onboard
+Asus,Notebook,15.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4GB,1tb hdd,intel hd graphics 500,Windows 10,2kg,5431941.8208,1,other,2,Card onboard
+Asus,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16GB,128gb ssd +  1tb hdd,nvidia geforce gtx 970m,Windows 10,4.0kg,30444511.68,1,2,0,Card rời
+Dell,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4GB,500gb hdd,intel hd graphics 520,Windows 10,2.29kg,7851479.328000001,1,3,2,Card onboard
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8GB,1.0tb hybrid,amd radeon r5 m330,Windows 7,2.32kg,14340967.344,1,2,0,Khác
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,128gb ssd +  1tb hdd,nvidia geforce gtx 960m,Windows 10,2.4kg,19692792.028800003,1,2,0,Card rời
+Lenovo,2 in 1 Convertible,14,Full HD / Touchscreen 1920x1080,Intel Core i5 6200U 2.3GHz,4GB,128gb ssd,intel hd graphics 520,Windows 10,1.8kg,13347675.091872,1,1,1,Card onboard
+Asus,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core M 6Y30 0.9GHz,8GB,512gb ssd,intel hd graphics 515,Windows 10,1.2kg,11681078.428800002,1,other,1,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Core i3 7100U 2.4GHz,6GB,1tb hdd,intel hd graphics 620,Windows 10,2.3kg,7354753.0848,1,3,2,Card onboard
+Acer,Notebook,15.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4GB,500gb hdd,intel hd graphics 400,Linux,2.4kg,4630770.4608000005,1,other,2,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Celeron Dual Core N3050 1.6GHz,2GB,500gb hdd,intel hd graphics,Windows 10,2.20kg,6072878.9088,1,other,2,Card onboard
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,1tb hdd,nvidia geforce gtx 960m,Windows 10,2.6kg,14405061.052800002,1,2,2,Card rời
+HP,Notebook,15.6,Full HD 1920x1080,AMD A9-Series 9410 2.9GHz,6GB,1.0tb hybrid,amd radeon r7 m440,Windows 10,2.04kg,8812724.725728,2,other,0,Khác
+Dell,Notebook,15.6,1366x768,Intel Core i7 7500U 2.7GHz,8GB,1tb hdd,amd radeon r5 m430,Linux,2.3kg,12914722.088928001,1,2,2,Khác
+HP,Netbook,11.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,2GB,32gb flash storage,intel hd graphics 400,Windows 10,1.17kg,3348896.2848,1,other,0,Card onboard
+Asus,Notebook,15.6,1366x768,Intel Core i7 6500U 2.5GHz,4GB,500gb hdd,nvidia geforce 920m,Windows 10,2.2kg,11541995.080704,1,2,2,Card rời
+Lenovo,2 in 1 Convertible,14,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.5GHz,4GB,128gb ssd,intel hd graphics 520,Windows 10,1.8kg,10222946.5536,1,2,1,Card onboard
+Lenovo,2 in 1 Convertible,13.3,IPS Panel Quad HD+ / Touchscreen 3200x1800,Intel Core i7 6500U 2.5GHz,16GB,512gb ssd,intel hd graphics 520,Windows 10,1.3kg,24019117.3728,1,2,1,Card onboard
+Lenovo,Notebook,14,1366x768,Intel Celeron Dual Core N3050 1.6GHz,2GB,64gb flash storage,intel hd graphics,Windows 10,1.5kg,3669364.8288000003,1,other,0,Card onboard
+HP,Notebook,15.6,1366x768,Intel Core i7 6500U 2.5GHz,6GB,1tb hdd,amd radeon r5 m330,Windows 10,2.19kg,12241898.3808,1,2,2,Khác
+Asus,Notebook,15.6,1366x768,Intel Celeron Dual Core N3050 1.6GHz,4GB,500gb hdd,intel hd graphics,Windows 10,2.2kg,5912644.6368,1,other,2,Card onboard
+Asus,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core M 6Y30 0.9GHz,8GB,512gb ssd,intel hd graphics 515,Windows 10,1.2kg,11681078.428800002,1,other,1,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Core i3 7100U 2.4GHz,6GB,1tb hdd,intel hd graphics 620,Windows 10,2.3kg,7354753.0848,1,3,2,Card onboard
+Acer,Notebook,15.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4GB,500gb hdd,intel hd graphics 400,Linux,2.4kg,4630770.4608000005,1,other,2,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Celeron Dual Core N3050 1.6GHz,2GB,500gb hdd,intel hd graphics,Windows 10,2.20kg,6072878.9088,1,other,2,Card onboard
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,1tb hdd,nvidia geforce gtx 960m,Windows 10,2.6kg,14405061.052800002,1,2,2,Card rời
+HP,Notebook,15.6,Full HD 1920x1080,AMD A9-Series 9410 2.9GHz,6GB,1.0tb hybrid,amd radeon r7 m440,Windows 10,2.04kg,8812724.725728,2,other,0,Khác
+Dell,Notebook,15.6,1366x768,Intel Core i7 7500U 2.7GHz,8GB,1tb hdd,amd radeon r5 m430,Linux,2.3kg,12914722.088928001,1,2,2,Khác
+HP,Netbook,11.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,2GB,32gb flash storage,intel hd graphics 400,Windows 10,1.17kg,3348896.2848,1,other,0,Card onboard
+Asus,Notebook,15.6,1366x768,Intel Core i7 6500U 2.5GHz,4GB,500gb hdd,nvidia geforce 920m,Windows 10,2.2kg,11541995.080704,1,2,2,Card rời
+Lenovo,2 in 1 Convertible,14,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.5GHz,4GB,128gb ssd,intel hd graphics 520,Windows 10,1.8kg,10222946.5536,1,2,1,Card onboard
+Lenovo,2 in 1 Convertible,13.3,IPS Panel Quad HD+ / Touchscreen 3200x1800,Intel Core i7 6500U 2.5GHz,16GB,512gb ssd,intel hd graphics 520,Windows 10,1.3kg,24019117.3728,1,2,1,Card onboard
+Lenovo,Notebook,14,1366x768,Intel Celeron Dual Core N3050 1.6GHz,2GB,64gb flash storage,intel hd graphics,Windows 10,1.5kg,3669364.8288000003,1,other,0,Card onboard
+HP,Notebook,15.6,1366x768,Intel Core i7 6500U 2.5GHz,6GB,1tb hdd,amd radeon r5 m330,Windows 10,2.19kg,12241898.3808,1,2,2,Khác
+Asus,Notebook,15.6,1366x768,Intel Celeron Dual Core N3050 1.6GHz,4GB,500gb hdd,intel hd graphics,Windows 10,2.2kg,5912644.6368,1,other,2,Card onboard
+Asus,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core M 6Y30 0.9GHz,8GB,512gb ssd,intel hd graphics 515,Windows 10,1.2kg,11681078.428800002,1,other,1,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Core i3 7100U 2.4GHz,6GB,1tb hdd,intel hd graphics 620,Windows 10,2.3kg,7354753.0848,1,3,2,Card onboard
+Acer,Notebook,15.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4GB,500gb hdd,intel hd graphics 400,Linux,2.4kg,4630770.4608000005,1,other,2,Card onboard
+Dell,Notebook,15.6,1366x768,Intel Celeron Dual Core N3050 1.6GHz,2GB,500gb hdd,intel hd graphics,Windows 10,2.20kg,6072878.9088,1,other,2,Card onboard
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8GB,1tb hdd,nvidia geforce gtx 960m,Windows 10,2.6kg,14405061.052800002,1,2,2,Card rời
+HP,Notebook,15.6,Full HD 1920x1080,AMD A9-Series 9410 2.9GHz,6GB,1.0tb hybrid,amd radeon r7 m440,Windows 10,2.04kg,8812724.725728,2,other,0,Khác
+Dell,Notebook,15.6,1366x768,Intel Core i7 7500U 2.7GHz,8GB,1tb hdd,amd radeon r5 m430,Linux,2.3kg,12914722.088928001,1,2,2,Khác
+HP,Netbook,11.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,2GB,32gb flash storage,intel hd graphics 400,Windows 10,1.17kg,3348896.2848,1,other,0,Card onboard
+Asus,Notebook,15.6,1366x768,Intel Core i7 6500U 2.5GHz,4GB,500gb hdd,nvidia geforce 920m,Windows 10,2.2kg,11541995.080704,1,2,2,Card rời
+Lenovo,2 in 1 Convertible,14,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.5GHz,4GB,128gb ssd,intel hd graphics 520,Windows 10,1.8kg,10222946.5536,1,2,1,Card onboard
+Lenovo,2 in 1 Convertible,13.3,IPS Panel Quad HD+ / Touchscreen 3200x1800,Intel Core i7 6500U 2.5GHz,16GB,512gb ssd,intel hd graphics 520,Windows 10,1.3kg,24019117.3728,1,2,1,Card onboard
+Lenovo,Notebook,14,1366x768,Intel Celeron Dual Core N3050 1.6GHz,2GB,64gb flash storage,intel hd graphics,Windows 10,1.5kg,3669364.8288000003,1,other,0,Card onboard
+HP,Notebook,15.6,1366x768,Intel Core i7 6500U 2.5GHz,6GB,1tb hdd,amd radeon r5 m330,Windows 10,2.19kg,12241898.3808,1,2,2,Khác
+Asus,Notebook,15.6,1366x768,Intel Celeron Dual Core N3050 1.6GHz,4GB,500gb hdd,intel hd graphics,Windows 10,2.2kg,5912644.6368,1,other,2,Card onboard
